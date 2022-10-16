@@ -1,0 +1,21 @@
+@use "./partials" as *;
+
+@include Reset(1px);
+
+body {
+     background-color: rgb(216, 215, 215);
+     background-color: white;
+}
+
+
+.cover {
+     display: none;
+
+}
+
+
+main {
+     margin: 2rem  0 0 0;
+}
+
+

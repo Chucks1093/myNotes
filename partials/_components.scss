@@ -1,0 +1,75 @@
+@use "./mixins" as *;
+
+
+header {
+     height: 10vh;
+     background-color: white;
+     @include Flex(space-between);
+     margin: 0 auto;
+     width: 95%;
+
+
+     & .app-details {
+          @include Flex(space-between);
+          
+          & .app-name {
+               font-weight: bold;
+               color: #3a3939;
+          }
+     
+           & .app-logo {
+               height: 7vh;
+          }
+     }
+
+     & .notification-btn {
+          width: 2.7rem;
+          height: 2.7rem;
+          @include Flex;
+          @include Debug(blue);
+          position: relative;
+          
+          &  img {
+               height: 1.5rem;
+          }
+          
+          & .notification {
+               position: absolute;
+               @include Circle(.7rem);
+               background-color: rgb(255, 124, 124);
+               right: 0;
+               top: 0;
+     
+          }
+     }
+
+}
+
+.course {
+     @include Question;
+}
+
+.course-question {
+     width: 93%;
+     margin: 0 auto 2rem;
+     padding: 7px;
+     
+     & .question {
+          @include Flex(space-between);
+
+          & p {
+               width: 80%;
+          
+          }
+
+          & img {
+               height: 2.5rem;
+          }
+     }
+
+     & .answer {
+          margin: .6rem  0 0 0;
+          // display: none;
+     }
+}
+
