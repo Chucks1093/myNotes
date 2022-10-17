@@ -54,7 +54,7 @@ header {
      margin: 0 auto 2rem;
      padding: 7px;
      
-     & .question {
+     & .question {  
           @include Flex(space-between);
 
           & p {
@@ -69,6 +69,11 @@ header {
 
      & .answer {
           margin: .6rem  0 0 0;
+          & img {
+               width: 90%;
+               object-fit: contain;
+               margin: 0 auto;
+          }
           // display: none;
      }
 }

@@ -1,25 +1,14 @@
-import data from "../data/cedr.json"
+import createQuizUI from "../components/createQuizUI";
+
+const title = document.querySelector('header > p');
 const courseContainer = document.querySelector('main');
 
+const dataName = localStorage.getItem("name").toLowerCase();
+const sectionName = localStorage.getItem("section");
+const data = await import(`../data/${dataName}.json`);
+title.textContent = sectionName;
 
-function createQuizUI(question, answer) {
-     const quizBox = document.createElement('article');
-     quizBox.classList.add('course-question');
-     const questionBox = document.createElement('question');
-     questionBox.classList.add('question');
-     const qText = document.createElement('p');
-     qText.innerHTML = question;
-     const showIcon = document.createElement('img');
-     showIcon.setAttribute("src", "/plus-circle.svg");
-     showIcon.setAttribute("alt", "showBtn");
-     questionBox.append(qText, showIcon);
-     const answerBox = document.createElement('answer');
-     answerBox.classList.add('answer');
-     answerBox.innerHTML = answer;
-     quizBox.append(questionBox, answerBox);
-     courseContainer.appendChild(quizBox);
-}
 
-data["Chapter 1"].map(quiz=> {
-     createQuizUI(quiz.question, quiz.answer)
+data.default[sectionName].map(name=> {
+     createQuizUI(name["question"], name["answer"], courseContainer);
 })
