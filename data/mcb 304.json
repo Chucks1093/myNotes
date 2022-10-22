@@ -233,14 +233,6 @@
                "answer": "<b>Concept of Dominance</b>"
           },
           {
-               "question": "What are the four concepts of Genetics developed by Mendel?",
-               "answer": "a) Concept of Dominance<br>b) Concept of Unit Characters<br>c) Concept of Segregation<br>d) Concept of Independent Assortment"
-          },
-          {
-               "question": "What mendelian concept states that some hereditary traits are dominant over others?",
-               "answer": "<b>Concept of Dominance</b>"
-          },
-          {
                "question": "What mendelian concept states that hereditary characteristics were <br>controlled by discrete of separate factors (now called genes) that occur in pairs, one factor<br>from each parent?",
                "answer": "<b>Concept of Unit Characters</b>"
           },
@@ -306,12 +298,29 @@
           },
           {
                "question": "<h2>Summary of Oswald Avery Experiment</h2>",
-               "answer": "<img src='../data/media/mcb 304/img2354101003865904238.jpg'>"
+               "answer": "<img src='../data/media/mcb304/img2354101003865904238.jpg'>"
           },
           {
                "question": "<h2>Summary of Alfred Hershey and Martha Chase Experiment</h2>",
-               "answer": "<img src='../data/media/mcb 304/img2742864930804370051.jpg'>"
+               "answer": "<img src='../data/media/mcb304/img2742864930804370051.jpg'>"
           }
-
+     ],
+     "The Genetic Code, Transcription, Translation and the wobble Hypothesis":[
+          {
+               "question": "Genetic information on mRNA is made of alternating sequence of the four nucleotides which are ____",
+               "answer": "(A, G, C, U)"
+          },
+          {
+               "question": "Which of the following has only one codon?<br>a) Leucine<br>b) Arginine<br>c) Serine<br>d) Methionine",
+               "answer": "<b><em>D</em></b>"
+          },
+          {
+               "question": "____  is the region on the mRNA that bears the gene sequences translated into protein. It lacks the termination site.",
+               "answer": "<b>Open reading frame (ORF)</b>"
+          },
+          {
+               "question": "Amino acids that exhibit more than one codon ____",
+               "answer": "degeneracy"
+          }
      ]
 }

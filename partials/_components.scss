@@ -17,9 +17,7 @@ header {
      width: 100%;
     
      & #title {
-          border: 1px solid red;
           width: 45%;
-          // height: 1.3rem;
           overflow: hidden;
           text-overflow: ellipsis;
           white-space: nowrap;

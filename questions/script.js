@@ -11,12 +11,16 @@ const notificationBtn = document.querySelector("#notification-btn");
 
 const dataName = localStorage.getItem("name").toLowerCase();
 const sectionName = localStorage.getItem("section");
-const data = await import(`../data/${dataName}.json`);
-title.textContent = `${sectionName}`;
+
+async function getData(){
+     const data = await import(`../data/${dataName}.json`);
+     title.textContent = `${sectionName}`;
+     data.default[sectionName].map(name=> {
+          createQuizUI(name["question"], name["answer"], courseContainer);
+     });
+
+}
 
 createDevModal(devInfo);
 openModal(devInfo, notificationBtn);
-
-data.default[sectionName].map(name=> {
-     createQuizUI(name["question"], name["answer"], courseContainer);
-});
+getData();
