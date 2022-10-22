@@ -4,25 +4,24 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/books-logo.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.scss">
-    <title>myNote</title>
+    <link rel="stylesheet" href="/style.scss">
+    <title>myNotes</title>
 </head>
-<body>
-    <div class="cover">
-        <img class="app-logo" src="" alt="">
-        <p class="app-name" >myNotes</p>
-    </div>
-    <header>
-        <div class="app-details">
-            <p class="app-name">myNotes</p>
-        </div>
-        <p>Notes</p>
-        <button class="notification-btn">
-            <img  src="/bell.svg" alt="">
-            <div class="notification"></div>
-        </button>
-    </header>
-    <main></main>
-    <script type="module" src="./script.js"></script>
+<body >
+     <div id="swup" class="transition-fade">
+          <div id="dev-info"></div>
+          <header>
+               <div class="app-details">
+                    <a href="/index.html" class="app-name">myNotes</a>
+               </div>
+               <p id="title">Courses</p>
+               <button class="notification-btn" id="notification-btn">
+                    <img  src="/bell.svg" alt="">
+                    <div class="notification" id="notification"></div>
+               </button>
+          </header>
+          <main></main>
+     </div>
+     <script type="module" src="/script.js"></script>
 </body>
 </html>

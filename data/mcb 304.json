@@ -1,0 +1,317 @@
+{
+     "Chemistry of Nucleic Acid": [
+          {
+               "question": "Nucleic acids are made up of subunits called ___",
+               "answer": "<b>Nucleotides</b>"
+          },
+          {
+               "question": "What are the two forms of nucleic acids?",
+               "answer": "<b>RNA</b> and <b>DNA</b>"
+          },
+          {
+               "question": "A nucleotide consist of three parts which are :",
+               "answer": "1. A five-carbon sugar (Pentose).<br>2. A nitrogenous base.<br>3. A phosphate group.<br>"
+          },
+          {
+               "question": "The nitrogenous base can either be a single-ring <br>____ or a double-ring ____. ",
+               "answer": "pyrimidine , purine"
+          },
+          {
+               "question": "What are the three types of pyrimidines?",
+               "answer": "1. Cytosine<br>2. Thymine<br>3. Uracil"
+          },
+          {
+               "question": "What the two types of purines?",
+               "answer": "<b>Guanine</b> and <b>Adenine</b>"
+          },
+          {
+               "question": "Cytosine pairs with ____ and Adenine pairs with ____ or ____",
+               "answer": "Guanine ,Thymine or Uracil"
+          },
+          {
+               "question": "The following are present in DNA except :<br><br>a) Cytosine<br>b) Adenine<br>c) Thymine<br>d) Uracil",
+               "answer": "<b><em>D</em></b>"
+          },
+          {
+               "question": "Who used a paper chromatography to discover that's the total amount of purine = the total amount of pyrimidine?",
+               "answer": "<b>Erwin Chargaff</b>(<b>1948</b>)"
+          },
+          {
+               "question": "____ and ____<b>(1953)</b>used x-ray defractiom to discover that DNA has a helical shape and consists of two strands.",
+               "answer": "Roseline Franklin and Maurice Wilkins"
+          },
+          {
+               "question": "____ and ____ constricted a model of the DNA in <b>1953</b>.",
+               "answer": "James watson and Francis Crick"
+          },
+          {
+               "question": "The strands of DNA are held together by ____ bonds.",
+               "answer": "Hydrogen"
+          },
+          {
+               "question": "The backbone of the chain is made up of  ___ and ____ while the ____ occur inside the helix.",
+               "answer": "Sugar and Phospahte, Bases"
+          },
+          {
+               "question": "The helix has a constant diameter of ____, with a space <br>of ____ separating each pairing purine & pyrimidine.",
+               "answer": "20Å,3.4Å "
+          },
+          {
+               "question": "The helical structure repeats after ____ nucleotides on <br>each chain. 1 helical turn = ____.",
+               "answer": "10 , 3.4nM"
+          },
+          {
+               "question": "The double-helix nature of DNA produces two grooves <br>along its length which are a ____ and  ____ groove. It is at <br>the {{c1::major}} groove proteins recognize & bind to DNA.",
+               "answer": "Major and Minor, Major "
+          },
+          {
+               "question": "DNA can adopt 3 conformations which are : ____ conformations.",
+               "answer": "B, A, & Z"
+          },
+          {
+               "question": "____ is the conformation adopted in high humidity, <br>closest to physiological conditions. It is ____handed <br>(i.e. when looking at it from above the strands coil upwards in an ____ direction), has ____ base <br>pairs per helical turn, and has a ____ major groove & a <br>____ minor groove.",
+               "answer": "B-DNA, right-, anticlockwise, 10, wide, narrow"
+          },
+          {
+               "question": "____ conformation is adopted under conditions of <br>low humidity (unhydrated) & in some DNA-protein <br>complexes.<br>It is shorter and broader than ____, is ___handed, <br>has ____ Base Pairs/ helical turn, and <b>its major groove is less <br>distinct than its minor groove.</b>",
+               "answer": "A-DNA, B-DNA, right-,11,  "
+          },
+          {
+               "question": "____ is a left-handed helix &amp; has a zigzag appearance. It is elongated &amp; slimmer than ____. It <br>has _____ BP/turn of the helix, and has  ____ groove.",
+               "answer": "Z-DNA, B-DNA, 12, one"
+          },
+          {
+               "question": "What is the difference between denaturing and renaturing?",
+               "answer": "Denaturing involves the separation of DNA strands by raising the temperatures above 100⁰c while renaturing involves joining of complementary strands by slowly cooling"
+          },
+          {
+               "question": "___ is the process required in packing genetic material which is over 1,000 times the length of the cell that <br>houses it.",
+               "answer": "<b>Supercooling</b>"
+          },
+          {
+               "question": "Mention three differences between RNA and DNA.",
+               "answer": "1. At the carbon no. 2 of the Pentose sugar DNA has only Hydrogen group while RNA has -OH group.<br><br>2. Thymine is unique to DNA while uracil is unique to RNA <br><br>3. DNA is double strap nded while RNA is single stranded."
+          },
+          {
+               "question": "What is the difference between Nucleotide and nucleoside?",
+               "answer": "Sugar + base = nucleoside.<br><br>Sugar + base + phosphate group = nucleotide"
+          },
+          {
+               "question": "Phosphate groups are attached to the carbon no. ____ of 1 <br>nucleotide & the carbon no. ___ of the preceding (the one <br>on top) nucleotide to form a phosphodiester bond.",
+               "answer": "five , three"
+          },
+          {
+               "question": "What kind of conformation does the DNA below have?<br><br><img src='../data/media/mcb304/img2274585359780674119.jpg'>",
+               "answer": "<em><b>A-DNA</b></em>"
+          },
+          {
+               "question": "What type of conformation does the DNA below have?<br><br><img src='../data/media/mcb304/img550750235536713208.jpg'>",
+               "answer": "<em><b>B-DNA</b></em>"
+          },
+          {
+               "question": "What type of conformation does the DNA below have ?<br><br><img src='../data/media/mcb304/img8157703152343683551.jpg'>",
+               "answer": "<em><b>Z-DNA</b></em>"
+          }
+     ],
+     "DNA Replication & Gene Transmission": [
+          {
+               "question": "What are the three patterns of DNA replication?",
+               "answer": "1. Conservative<br>2. Semi-conservative<br>3. Dispersive/Distributive"
+          },
+          {
+               "question": "'Both strands of DNA still remain <br>together after producing daughter strands.' This occurs in what pattern of DNA replication?",
+               "answer": "<b><em>Conservative</em></b><br><br><img src='../data/media/mcb304/img1227641019109900751.jpg'>"
+          },
+          {
+               "question": "'Each parental strand acts as <br>template for a new strand and remains with it.' This occurs in what pattern of DNA replication. ?",
+               "answer": "<img src='../data/media/mcb304/img4714338326247977472.jpg'>"
+          },
+          {
+               "question": "'Both strands break along their length, act as template for a short length of new strands, and then rejoin.' What pattern of DNA replication is this ?",
+               "answer": "<b><em>Dispersive/distributive</em></b><br><br><img src='../data/media/mcb304/img2774805375978571322.jpg'>"
+          },
+          {
+               "question": "Which one is the right model?<br><img src='../data/media/mcb304/img5722515040459710465.jpg' />",
+               "answer": "<b><em>Semi-conservative</em></b>"
+          },
+          {
+               "question": "<h2>The Meselson & Stahl Experiment to Show the SemiConservative Nature of DNA Replication</h2><br><br><img src='../data/media/mcb304/img2041117298178429081.jpg'>",
+               "answer": "i.E.coli cells were grown in 15NH4Cl as the sole N <br>source for many generations (15N is a heavy isotope <br>of the normal 14N). All cells had 15N in their DNA.<br><br>ii.Cells were then grown in 14NH4Cl so future generations would use 14N to form their DNA.<br><br>iii.Cells were collected after 1 generation & lysed.<br><br>iv.Liberated DNA was placed in cesium chloride (CsCl) <br>density gradient ultracentrifugation. This can separate “heavy” DNA (15N) from “light” DNA (14N).<br><br>v.After spinning, generation 1 DNA settled at a density gradient ½ way b/w that of 14 N & 15N DNAs indicating that all generation 1 DNA was a hybrid of <br>14N & 15N strands.<br><br>vi. This 1st result ruled out the conservative model which would have had 2 bands—at the 14 N & 15N gradients—instead of 1.<br><br>vii.DNA from the 2nd generation resulted in 2 bands—at the ½ way mark, & and at the 14 N grad.<br><br>viii.This result ruled out the dispersive model which would still have had 1 band in the half-way mark.<br><br>ix.The dispersive model was further disproved when generation 1 DNA was 1st denatured b/4 being centrifuged.<br><br>x.2 bands—14 N & 15N density gradients—emerged instead of the supposed 1 grad at the ½ way mark."
+          },
+          {
+               "question": "What enzyme helps to removes supercoils during cell replication? ",
+               "answer": "<b><em>DNA gyrase or topoisomerase</em></b>"
+          },
+          {
+               "question": "What enzyme opens up the DNA double helixor separates the DNA strands during replication?",
+               "answer": "<b><em>Helicase</em></b>"
+          },
+          {
+               "question": "What enzyme forms new DNA strand by joining together individual nucleotides and also fills up gap left by RNA primer removal?",
+               "answer": "<b><em>DNA polymerase III</em></b>"
+          },
+          {
+               "question": "What enzyme creates phosphodiester bonds b/w adjacent nucleotides in a 5’→3’ direction to form a new strand by breaking the high energy α-phosohate bonds of the deoxyribonucleotide triphosphates?",
+               "answer": "<b><em>DNA polymerase III</em></b>"
+          },
+          {
+               "question": "What enzyme during replication forms RNA primers for leading strand to begin, & for Okazaki fragments of lagging strand to begin?",
+               "answer": "<b><em>Primase</em></b>"
+          },
+          {
+               "question": "What enzyme removes RNA primers <br>when DNA replication is over?",
+               "answer": "<b><em>DNA polymeraseI or RNAse H</em></b>"
+          },
+          {
+               "question": "What enzyme forms phosphodiester bonds b/w last nucleotide of 1st Okazaki fragment & 1st nucleotide of the next Okazaki fragment (i.e. seals up ‘nicks’)?",
+               "answer": "<b><em>DNA ligase</em></b>"
+          },
+          {
+               "question": "___ prevents the strands from coming back together.",
+               "answer": "<b><em>Single strand binding proteins (SSB) </em></b>"
+          },
+          {
+               "question": "Strand elongation occurs only in the 5’→3’direction, thus only one strand called ____ is replicated continuously.",
+               "answer": "the leading strand"
+          },
+          {
+               "question": "The ____ is replicated <br>backwards in short segments called ____.",
+               "answer": "Lagging Strand , Okazaki fragments"
+          },
+          {
+               "question": "Okazaki fragments use short strands of RNA as ____. These RNA primers (10 nucleotides long)are synthesized by a ____ enzyme, which is an {{c1::RNA polymerase}}.",
+               "answer": "Primers, Primase"
+          },
+          {
+               "question": "____ fills up the spaces left by primer removal, while ____ seals the ‘nicks’ left by DNA polymerase to form a complete new strand .",
+               "answer": "DNA polymerase III , DNA ligase"
+          },
+          {
+               "question": "<h2>Process of DNA Replication 🧬</h2>",
+               "answer": "<img src='../data/media/mcb 304/img1968713249514245676.jpg'>"
+          },
+          {
+               "question": "Replication of circular E. coli DNA follows the ____ model.",
+               "answer": "replicon"
+          },
+          {
+               "question": "Replication of circular E. coli DNA follows the ____ model. A replicon consists of the entire DNA replicating from a single origin. Circular DNA can have more than 1 origin of replication. E. coli has <b>only 1 replicon</b>, and its origin is ____.",
+               "answer": "oriC"
+          },
+          {
+               "question": "____(initiation protein) binds to oriC &<br>unwinds 45bp of the double helix.",
+               "answer": "<b>DnaA</b>"
+          },
+          {
+               "question": "____ (a helicase) takes over & unwinds the DNA in both directions.",
+               "answer": "<b>DnaB</b>"
+          },
+          {
+               "question": "____ creates primers for both leading & lagging strand polymerization to begin.",
+               "answer": "<b>DNA primase</b>"
+          },
+          {
+               "question": "____ synthesizes both the leading & lagging strands (the lagging strand in Okazaki fragments).",
+               "answer": "<b>DNA polymerase III</b>"
+          },
+          {
+               "question": "Replication continues until both replication forks meet at the ____ region opposite oriC.This region has a consensus sequence of ____",
+               "answer": "Ter, 5’—GTGTGTTGT"
+          },
+          {
+               "question": "<h2>Replication In Circular DNA</h2>",
+               "answer": "<img src='../data/media/mcb304/img1777551782755107856.jpg'>"
+          }
+     ],
+     "History Review of Genetics": [
+          {
+               "question": "What are the four concepts of Genetics developed by Mendel?",
+               "answer": "a) Concept of Dominance<br>b) Concept of Unit Characters<br>c) Concept of Segregation<br>d) Concept of Independent Assortment"
+          },
+          {
+               "question": "What mendelian concept states that some hereditary traits are dominant over others?",
+               "answer": "<b>Concept of Dominance</b>"
+          },
+          {
+               "question": "What are the four concepts of Genetics developed by Mendel?",
+               "answer": "a) Concept of Dominance<br>b) Concept of Unit Characters<br>c) Concept of Segregation<br>d) Concept of Independent Assortment"
+          },
+          {
+               "question": "What mendelian concept states that some hereditary traits are dominant over others?",
+               "answer": "<b>Concept of Dominance</b>"
+          },
+          {
+               "question": "What mendelian concept states that hereditary characteristics were <br>controlled by discrete of separate factors (now called genes) that occur in pairs, one factor<br>from each parent?",
+               "answer": "<b>Concept of Unit Characters</b>"
+          },
+          {
+               "question": "What concept of mendel states that contrasting factors for a given trait (eg, yellow and greenfor colour traits) in an individual segregate (separate) when gametes are formed, and any single gamete receives only one factor for the trait?",
+               "answer": "<b><em>The concept of segregation</em></b>"
+          },
+          {
+               "question": "The 2 contrasting genes for a trait are called ____. When both alleles are identical, the organism is said to be ____ for that trait. <br>When not identical, the organism is ____. In any organism, the gamete is ____ (that is, has half the number of chromosomes) and contains only one of the two chromosomespresent in the parent, and the selection of chromosomes is purely random.",
+               "answer": "alleles,homozygous, heterozygous, halploid"
+          },
+          {
+               "question": "What concept of Mendel concluded that factors for one trait segregate independently of the factors for another <br>trait?",
+               "answer": "<b>Concept of Independent Assortment</b>"
+          },
+          {
+               "question": "What are the four limitations to the mendelian system?",
+               "answer": "1. Incomplete Dominance .<br>2. Multiple Allele Inheritance.<br>3. Sex-linked Inheritance.<br>4. Polygene/ Multiple gene Inheritance."
+          },
+          {
+               "question": "What mendel limitation occurs when when two a red flower is crossed with a white flower but they were both expressed, thus resulting in the formation of pink flowers?",
+               "answer": "<b>Incomplete Dominance</b><br><br>Sickle cell anaemia heterozygotes (AS) is also a kind of incomplete dominance. The blood of <br>carriers have both the AA and SS haemoglobin."
+          },
+          {
+               "question": "What mendel limitation occurs when some traits like the ABO blood types in humans have 3 possible alleles instead of 2?",
+               "answer": "<b>Multiple Alleles</b>"
+          },
+          {
+               "question": "There are some <b>genes</b> found on the X chromosome which are not on the Y chromosome. Those <b>genes</b> found only on the X chromosome are said to be Xlinked, and those appearing on the Y chromosome are said to be Y-linked. An example is colour blindness. The gene is X-linked. When a male inherits an X-linked trait, its expression is never masked because there is no corresponding allele on his Y-chromosome. In contrast, females <br>must have 2 X-linked recessive alleles to express colour blindness, and as a result, there are very few colour blind females as opposed to colour blind males. This is a limitation of mendelian system referred to as ____",
+               "answer": "Sex-linked Inheritance"
+          },
+          {
+               "question": "A situation whereby many genes act together to produce a phenotype. Skin colour, for instance, is controlled by 3 separate inherited genes, each existing in 2 allelic forms. These are the A.B, and C. the A and B confer dark skin pigment and their effect is additive. The a, b and <br>c alleles confer light skin tone. Hence, an individual with AABBCC will be very dark.<br>This is a limitation to the mendelian system referred to as ____",
+               "answer": "<b>Polygene / Multiple gene Inheritance</b>"
+          },
+          {
+               "question": "Mendel Concept apply only to diploid organisms and cannot explain the genetics of haploid organisms such as bacteria. <b>True/False</b>",
+               "answer": "<b><em>True</em></b>"
+          },
+          {
+               "question": "Evidence that DNA might be the main genetic material first emerged from studies on ____ bacteria by in 1928. Griffith was working with ____, a bacterium which owes its virulence to the presence of a ____.",
+               "answer": "<b>pneumonia-causing, Fredrick Griffith, Streptococcus pneumoniae, polysaccharide capsule</b>"
+          },
+          {
+               "question": "According to studies on Streptococcus pneumoniae done by Fredrick Griffith. The mutants of Streptococcus pneumoniae (strains which lack capsule ) were unable to cause infection.  <br><b>True/False</b>",
+               "answer": "<b>True</b>"
+          },
+          {
+               "question": "According to studies on Streptococcus pneumoniae done by Fredrick Griffith. The mutants of Streptococcus pneumoniae which were unable to cause infection were called ____ because their colonies appeared rough on agar while those that could cause infection were called ___ because their colonies appeared smooth on agar.",
+               "answer": "R-Strains,  S-strains <h3>❗❗❗</h3><br>R-Stains don't have capsules but S-strains have Capsules"
+          },
+          {
+               "question": "Fredrick Griffith called the change of non-virulent bacteria into virulent pathogens ____.",
+               "answer": "transformation"
+          },
+          {
+               "question": "<h2>Summary of Fredrick Griffith Experiment</h2>",
+               "answer": "<img src='../data/media/mcb304/img3876453382903169449.jpg'>"
+          },
+          {
+               "question": "According to Oswald T. Avery,  ____ was the transforming molecule needed for transformation to occur.",
+               "answer": "DNA"
+          },
+          {
+               "question": "<h2>Summary of Oswald Avery Experiment</h2>",
+               "answer": "<img src='../data/media/mcb 304/img2354101003865904238.jpg'>"
+          },
+          {
+               "question": "<h2>Summary of Alfred Hershey and Martha Chase Experiment</h2>",
+               "answer": "<img src='../data/media/mcb 304/img2742864930804370051.jpg'>"
+          }
+
+     ]
+}

@@ -3,25 +3,24 @@
 <head>
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <link rel="icon" type="image/svg+xml" href="/books-logo.svg" />
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>myNotes</title>
-     <link rel="stylesheet" href="../style.scss">
-</head>
-<body>
-     <header>
-        <div class="app-details">
-            <p class="app-name">myNotes</p>
-
-            <!-- <img class="app-logo" src="/books-logo-2.svg" alt=""> -->
-
-        </div>
-        <p>Notes</p>
-        <button class="notification-btn">
-            <img  src="/bell.svg" alt="">
-            <div class="notification"></div>
-        </button>
-    </header>
-    <main></main>
+     <link rel="stylesheet" href="/style.scss">
+    </head>
+    <body>
+        <div id="dev-info"></div>
+        <header>
+            <div class="app-details">
+                <a href="/index.html" class="app-name">myNotes</a>
+            </div>
+            <p id="title">Notes</p>
+            <button class="notification-btn" id="notification-btn">
+                <img  src="/bell.svg" alt="">
+                <div class="notification" id="notification"></div>
+            </button>
+        </header>
+        <main></main>
     <script type="module" src="./script.js"></script>
 </body>
 </html>
