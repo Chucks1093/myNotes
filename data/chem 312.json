@@ -1,0 +1,150 @@
+{
+    "Dipole Moment": [
+          {
+               "question": "What is dipole moment?",
+               "answer": "Dipole moments occur when there is a separation of charge. <br><br>It defines the distance a charge moves."
+          },
+          {
+               "question": "Characteristics of diploe moment",
+               "answer": "1. It affects the polarity of a compound<br>2. It affects the application of compound<br>3. It affects the molecular structure of a compound<br>4. It can be regarded as a vector quantity.<br>5. Compounds that have symmetry don't have dipole moment <b>C<span style='font-size:small'>2</span></b>Cl<span style='font-size:small'>4</span><br>5. Linear molecules do not have dipole moments e.g CO<span style='font-size:small'>2</span>"
+          }
+    ],
+    "Electrochemistry": [
+          {
+               "question": "What is an Electrolyte ?",
+               "answer": "An electrolyte is an aqueous solution that conducts electricity when dissolved in water."
+          },
+          {
+               "question": "What is electrochemistry?",
+               "answer": "Electrochemistry is the study of how of how chemical reactions can produce electricity and how electricity can produce chemical reactions."
+          },
+          {
+               "question": "In Ag(NO<span style='font-size:small'>3</span>) and Zn(NO<span style='font-size:small'>3</span>) which of them will react with Cu in a solution containing both.",
+               "answer": "A redox reaction will occur between Cu and Ag<sup>+</sup> in the solution containing Ag(NO<span style='font-size:small'>3</span>) and not between Cu & Zn<sup>+</sup> in a solution containing Zn(NO<span style='font-size:small'>3</span>)<span style='font-size:small'>2</span>.<br><br>The Ag(NO<span style='font-size:small'>3</span>) turns blue and Ag metal is deposited and Zn(NO<span style='font-size:small'>3</span>)<span style='font-size:smal'>2</span> remains colourless.<br><br>The difference in behavior of the two solutions is due to their ion electrode potential . Ag<sup>+</sup> is more easily reduced Zn<sup>2+</sup>."
+          },
+          {
+               "question": "What are the three types of interaction that can occur between an eletrode and an electrolyte in a solution?",
+               "answer": "1) A metal ion M<sup>n+</sup> may collide with the electrode and undergo no change .<br><br>2) A metal ion M<sup>n+</sup> may collide with electrode and gain 'n' electrons and be converted to the metal <b>M</b> . The metal is said to be reduced.<br><b>M<sup>n+</sup><span style='font-size:small'>(aq)</span> + ne<sup>-</sup> →M<span style='font-size:small'>(s)</span></b><br><br>3) A metal atom may lose 'n' electrons and enter into the solution, it is said to be oxidized .<br><b>M<span style='font-size:small'>(s)</span> → M<sup>n+</sup><span style='font-size:small'>(aq)</span> +  ne<sup>-</sup></b>"
+          },
+          {
+               "question": "a) Draw a typical electrochemical cell using Zn(SO<span style='font-size:small'>4</span>) and CuSO<span style='font-size:small'>4</span> as electrolyte.<br><br>b) State which of the electrode is negative and which is positive . Give reasons for your answer...<br><br>c) Write the equation for the anodic and the cathodic half and also give the overall cell reaction.<br><br><br>",
+               "answer": "a)<img src='../data/media/chem312/img3346807523086347023.jpg' /><br><br><br>b) Zinc is consider to be the anode because in the electrochemical series , Zinc is higher and thus it tends to loose electron to become oxidized while copper acts the cathode because it is lower in the electrochemical series compared to zinc and this has lower ability to loose electrons.<br><br>c) i)Anodic Half reaction:<br>Zn→Zn<sup>2+</sup> + 2e<sup>-</sup><br>    ii) Cathodic Half reaction<br>Cu<sup>2+</sup> + 2e<sup>-</sup> →Cu<br>   iii) Overall Cell Reaction<br>Zn + Cu<sup>2+</sup>→Zn<sup>2+</sup> +  Cu"
+          },
+          {
+               "question": "Explain the two types of electrochemical cell.",
+               "answer": "1) <b>Galvanic Cell(voltanic cell)</b>: The reaction I'm this type of  occurs spontaneously . The chemical change produced during this reaction produces electricity. They have a positive voltage.<br><br>2)<b>Electrolytic cell</b>: This reaction is non-spontaneous . Electricity needs to be applied for chemical change to take place."
+          },
+          {
+               "question": "In the Daniel cell , Zn<span style='font-size:small'>(s)</span> displaces copper (II) in aqueous solution and becomes Zn<sup>2+</sup>.<br>a) Write the half cell equation and the net equation.<br><br>b) Write the net notation for the spontaneous reaction.<br>",
+               "answer": "<u>Solution</u><br>a) Zn displaces Cu(II) ion, goes into the solution to become Zn<sup>2+</sup><span style='font-size:small'>(aq)</span> and Cu<sup>2+</sup><span style='font-size:small'>(aq)</span> gets out of the solution to become Cu<span style='font-size:small'>(s)</span> (copper solid).<img src='../data/media/chem312/img1435176086277910424.jpg'><br><br>b) <img src='../data/media/chem312/img5091167669359239307.jpg'/>"
+          },
+          {
+               "question": "Calculate the standard E.M.F, E<sup>o</sup> of the daniel cell. <br /><br />Zn/Zn<sup>2+</sup>(1M)<b>//</b>Cu<sup>2+</sup><sub>(ag)</sub>(1M)/Cu<sub>(s)</sub>",
+               "answer": "(I)Zn<sup>2+</sup> + 2e<sup>-</sup>➡Zn<sub>(s)</sub>&nbsp;&nbsp;&nbsp; -0.763v <br/>Cu<sup>2+</sup> + 2e<sup>-</sup>➡Cu<sub>(s)</sub>&nbsp;&nbsp;&nbsp;0.337v<br /><br /><h4>OR</h4><br/><br />E<sup>o</sup><sub>Zn<sup>2+</sup>/Zn</sub>&nbsp;&nbsp;=&nbsp;-0.763v<br/>E<sup>o</sup><sub>Cu<sup>2+</sup>/Cu</sub>&nbsp;&nbsp;=&nbsp;0.337v<br/><br />(II) Zn<sub>(s)</sub>&nbsp;&nbsp;➡Zn<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup><br/>E<sup>o</sup>&nbsp;=&nbsp;-(-0.763)<br/>=&nbsp;0.763v<br /><br /> (III)<br/> For oxidation: Zn<sub>(s)</sub>➡Zn<sup>2+</sup><sub>(aq)</sub> + <s>2e<sup>-</sup></s>&nbsp;E<sup>o</sup>=0.763v<br/>For reduction: Cu<sup>2+</sup> + <s>2e<sup>-</sup></s>➡Cu<sub>(s)</sub>&nbsp;&nbsp;&nbsp;0.337v<br/>Net reaction: Zn<sub>(s)</sub> + Cu<sup>2+</sup><sub>(aq)</sub>➡Zn<sup>2+</sup> + Cu<sub></sub>&nbsp;&nbsp; E<sup>o</sup>=1.100v"
+          },
+          {
+               "question": "A new battery under test for commercial use is the Zn-Chlorine battery. It ts standard e.m.f , E<sup>o</sup><span style='font-size:small'>cell</span> is 2.123V. Given that the standard reduction potential of zinc is -0.763V . Calculate the standard reduction potential of chlorine.",
+               "answer": " Zn <sub>(s)</sub> + Cl <sub>2(g)</sub>➡&nbsp;ZnCl <br><br>Oxidation:Zn <sub>(s)</sub>➡ &nbsp;Zn <sup>2+</sup>+ 2e <sup>-</sup>&nbsp;&nbsp;E <sup>o</sup>= -(-0.763v) <br>Reduction: Cl <sub>2(g)</sub> + 2e <sup>-</sup> ➡&nbsp;2Cl <sup>-</sup>&nbsp;E <sup>o</sup>=&nbsp; <b>x</b>v <br>Zn <sub>(s)</sub> + Cl <sub>2(g)</sub> ➡ Zn <sup>2+</sup><sub>(aq)</sub> + 2Cl <sup>-</sup><sub>(aq)</sub>&nbsp;E <sub>cell</sub>=2.123v <br><br>E <sup>o</sup><sub>Zn/Zn <sup>2+</sup></sub>+&nbsp;E <sup>o</sup><sub>Cl <sub>2</sub>/2Cl <sup>-</sup></sub>= E <sup>o</sup><sub>cell</sub><br>0.763v + x = 2.123v <br>E <sup>o</sup><sub>Cl <sub>2</sub>/2Cl <sup>-</sup></sub> = (2.123- 0.763)v = 1.360v <br>E <sup>o</sup><sub>Cl <sub>2</sub>/2Cl <sup>-</sup></sub> = 1.360v"
+          },
+          {
+               "question": "Calculate the E<sup>o</sup> of <b>Cu<sup>+</sup> + e<sup>-</sup> →Cu<span style='font-size:small'>(s)</span></b> in the following half equation.<br>Zn<sup>2+</sup> + 2e<sup>-</sup>➡Zn<sub>(s)</sub>&nbsp;&nbsp;&nbsp; -0.763v <br/>Cu<sup>2+</sup> + 2e<sup>-</sup>➡Cu<sub>(s)</sub>&nbsp;&nbsp;&nbsp;0.357v",
+               "answer": " Cu <sup>2+</sup> + e <sup>-</sup> ➡ &nbsp;Cu <sup>+</sup>&nbsp;&nbsp;E <sup>o</sup>= 0.153v= ΔG <sup>o</sup><br>  Cu <sup>2+</sup> + 2e <sup>-</sup> ➡ &nbsp;Cu &nbsp;&nbsp;E <sup>o</sup>= 0.357v= ΔG <sup>o</sup><sub>2</sub><br><br>Cu <sup>+</sup>➡&nbsp;<s>Cu <sup>2+</sup> + e <sup>-</sup></s> &nbsp;E <sup>o</sup>= -0.153v<br> <s>Cu <sup>2+</sup></s>  + 2e <sup>-</sup> ➡ &nbsp;Cu &nbsp;&nbsp;E <sup>o</sup>= 0.357v <br><br>ΔG <sup>o</sup><sub>1</sub>= -nE <sup>o</sup>F <br>=-1 * 0.153 * 96485Jmol <sub>-1</sub><br>=-14762.205Jmol <sup>-1</sup><br><br>ΔG <sup>o</sup><sub>2</sub>= -nE <sup>o</sup>F <br>=-2 * 0.357 * 96485Jmol <sub>-1</sub><br>=-68890.29Jmol <sup>-1</sup><br><br>ΔG <sup>o</sup><sub>T</sub> = ΔG <sup>o</sup><sub>2</sub> - ΔG <sup>o</sup><sub>1</sub> <br>= 68890.29-(-14762.205)Jmol <sup>-1</sup><br><br>ΔG <sup>o</sup><sub>T</sub>= -nE <sup>o</sup><sub>T</sub>F&nbsp;&nbsp;n=1 <br>E <sup>o</sup><sub>T</sub>= ΔG <sup>o</sup><sub>T</sub>/-nF <br>E <sub>T</sub>= -54128.085/-(1) * 96485 =0.561v <br>E <sup>o</sup><sub>T</sub>= 0.561v"
+          },
+          {
+               "question": "State the conditions necessary for ∆G<sup>o</sup> to be spontaneous, non-spontaneous and at equilibrium considering E<sup>o</sup><span style='font-size:small'>cell</span>.",
+               "answer": "From , ∆G<sup>o</sup>= -nE<sup>o</sup>F<br>When E<sup>o</sup> is positive ∆G<sup>o</sup> becomes negative which means the reaction is spontaneous but if E<sup>o</sup> is negative, then  ∆G<sup>o</sup> becomes positive which means the reaction is non-spontaneous  and also when E<sup>o</sup> = 0, ∆G<sup>o</sup> then becomes zero which means the reaction is at equilibrium."
+          },
+          {
+               "question": "Calculate the standard free energy change ∆G<sup>o</sup> of a Daniel cell given the E<sup>o</sup> of Zn= -0.763V and E<sup>o</sup> of Cu = 0.337V and state if the reaction is possible.",
+               "answer": "<img src='../data/media/chem312/img4447705919181352912.jpg' /><br><b>The reaction is possible because ∆G<sup>o</sup> is spontaneous i.e negative.</b>"
+          },
+          {
+               "question": "Mention four differences between electrolytic cell and galvanic cell.",
+               "answer": "<img src='../data/media/chem312/img3599277063385394026.png'>"
+          },
+          {
+               "question": "State faraday's first law of electrolysis.",
+               "answer": "This states that the mass of elements deposited at the cathode is directly or to the quantity of electricity <b>Q</b> passing through the electrolytic cell . <br><br>Q=IT <br>m ∝ Q &nbsp;&nbsp;Q is measured in coloumb(c)<br>m=kIt"
+          },
+          {
+               "question": "State faraday's second law of electrolysis.",
+               "answer": "This states that the mass of a substance deposited or liberated at any electrode on passing a certain amount of charge is directly proportional to its chemical equivalent weight. <br><br><b>m = Eq</b><br><br><b>Eq = m/n</b><br><br>m is the relative atomic mass of the substance.<br><b>n</b> is number of moles the electron gains or loses.<br><br>"
+          },
+          {
+               "question": "What is the equivalent weight?",
+               "answer": "It is the mass of substance that is discharged by passing one faraday of electricity."
+          },
+          {
+               "question": "What formula will the combination of first and second faraday's law of electrolysis result?",
+               "answer": "m=It <br>m= Eq <br>It= Eq<br>It=(m/n)*F"
+          },
+          {
+               "question": "What mass of Na will be discharged st the cathode when a current of 10A is passed through molten NaCl for a period of 4hours.",
+               "answer": "Na<sup>+</sup> + e<sup></sup> ➡ Na <br><br>Q=It<br>Q=10*4*60*60 <br>=144000 <br>Q=m/M * n * f <br> <br> 144000=m/23 * 1*96485 <br>144000=4195m<br>m= 144000/4195<br>m= 34.34g"
+          },
+          {
+               "question": "Calculate the oxidation number of  Cr in an unknown salt of the electrolysis of this salt yields 9.71g of Cr at the cathode after 10A of current is passed through the cell for 1.5hours . The relative atomic mass of Cr is 52.",
+               "answer": "Q=It<br>Q=10*1.5*60*60 = 54000c<br>Q=m/M * n *f <br>54000 = 9.71/52 * n * 96485c <br> 0.5597 = 0.1867n <br>n=2.99≈ 3 <br>Cr<sup>3+</sup> + 3e<sup>-</sup>➡ Cr"
+          },
+          {
+               "question": "What is electrolytic conduction?",
+               "answer": "Electrolytic conduction is the ability of an electrolytic condition to allow the electric current to flow through it when current is applied to the electrode."
+          },
+          {
+               "question": "Mention Arrhenius theories of Ionization.",
+               "answer": "(i) When an electrolyte is dissolved in water , it gets seperated into electricslly positive and negative ions called anions and cations.<br>(ii)The sum of postively charged cations and negatively charged ions are equal<br>(iii)The conduction of electricity through eletrolyte is possible as ions move towards the positively charged electrodes.<br> (iv)There is a state of dynamic equilibrum between ions and non-ionized molecules as the ions are consistently reuniting and the molecules are dissiociating.<br>Hence the process is reversible<br>NH<sub>4</sub>OH↔ NH<sub>4</sub><sup>+</sup> + OH<sup>-</sup><br>(v)The process of ionization is incomplete and the extent of ionization is expressed in terms of degree of ionization (∝) which is defined as the number of moles ionized/ the total number of moles dissolved.<br>(vi)Strong electrolyte gets nearly ionized, hence they have a degree of ionization nearly equal to one while weak electrolyte are partially ionised and the degree of ionization is less than one"
+          },
+          {
+               "question": "Mention three factors that affect that the degree of ionization.",
+               "answer": "1)<b>The nature of the electrolyte</b>: Ionic compound that dissolve in water have high degree of ionization because it ionizes completely in water while weak electrolyte ionizes partially bbecause they ha e low degree of ionization.<br><br>2)<b>Nature of solvent</b>: The degree of ionization increases if the dielectric constant of the solvent is greater and decreases if the dielectric constant is less.<br><br>3)<b>Dilution</b>: If the dilution of electrolyte is increased the degree of ionization increases but if the dilution of ionization is decreased the degree of ionization is decreased and the electrolyte are not ionized completely."
+          },
+          {
+               "question": "Use the information below to calculate the cell potential of the indicated reaction<br> Ni(OH)<sub>2</sub> ↔ Ni<sup>2+</sup> + 2OH<sup>-</sup>&nbsp;&nbsp;K<sub>sp</sub>= 1.6 * 10<sup>-16</sup><br>Ni<sup>2+</sup> + 2e<sup>-</sup>➡Ni&nbsp; E<sup>o</sup> = -0.23v<br>Ni + 2OH<sup>-</sup>➡Ni(OH)<sub>2</sub> + 2e<sup>-</sup>&nbsp;E<sup>o</sup>=?<br>T= 298K , R=8.3145",
+               "answer": "ΔG = -RTlnk = -nFE<sup>o</sup><br>E<sup>o</sup> = RTlnk/nF <br><br>E<sup>o</sup> = 8.3145*298*in(1.6*10<sup>-16</sup>)/2(96485)<br>E<sup>o</sup> = -0.467v <br> <br> Ni(OH)<sub>2</sub>↔<s>Ni<sup>2+</sup></s>+2OH<sup>-</sup>&nbsp;&nbsp;E<sup>o</sup>=-0.467v<br><s>Ni<sup>2+</sup></s> + 2e<sup>-</sup>➡Ni &nbsp;&nbsp;E<sup>o</sup>=-0.23v<br>Ni(OH)<sub>2</sub>+ 2e<sup>-</sup> ➡ Ni+2OH<sup>-</sup>&nbsp;&nbsp;E<sup>o</sup>=-0.697v <br>Since we are finding the reverse of the total equation of the reaction above we will then reverse the E<sup>o</sup><br><br>Ni + 20H<sup>-</sup>➡Ni(OH)<sub>2</sub> + 2e<sup>-</sup>&nbsp;&nbsp;E<sup>o</sup>=0.697v<br><audio src='../data/media/chem312/ankidroid_audiorec1729260503109009708.mp3'controls></audio>"
+          },
+          {
+               "question": "Oxidation occurs at the  cathode while reduction occurs at the Anode. <b>True/False</b> ",
+               "answer": "<b>False</b>.<br><br>Oxidation occurs at the anode while reduction occurs at the cathode."
+          },
+          {
+               "question": "Briefly explain electrode potential",
+               "answer": "It is the driving force in an electrochemical cell . It is measured by using standard hydrogen electrode (SHE). This electrode consists of a platinum electrode, hydrogen gas and hydrogen ion (H<sup>+</sup>). OK is maintained at 1atm pressure and temperature of 298K ."
+          },
+          {
+               "question": "What is the usefulness of the equilibrium constant?",
+               "answer": "It tells us the concentration of the reduced speice to that of the oxidized specie.<br>K= [reduced]/[oxidized]"
+          },
+          {
+               "question": "What are the essential components of galvanic cell?",
+               "answer": "The galvanic cell consists of four main components:<br><br>1)<b>The anode</b>: the compartment where oxidation occurs.<br>2)<b>The cathode</b>: the compartment where reduction occurs.<br>3)External pathway to allow the flow of electrons. ... <br>4)<b>Salt bridge</b>: allows ions to flow back and forth so that charge does not build up."
+          },
+          {
+               "question": "If the standard electrode potential of Zn is -0.76V and that of Cu is 0.34V . <br><br>a)Calculate the electrode potential of the cell. <br>b) The free energy change of the cell <br>c) Is the cell reaction spontaneous or not . Give reason for your answer <br>d) Calculate the equilibrium constant of the cell at 298K .",
+               "answer": "(I)Zn<sup>2+</sup> + 2e<sup>-</sup>➡Zn<sub>(s)</sub>&nbsp;E<sup>o</sup>= -0.76v <br/>Cu<sup>2+</sup> + 2e<sup>-</sup>➡Cu<sub>(s)</sub>&nbsp;E<sup>o</sup>=0.34v<br>Zn➡Zn<sup><s>2+</sup> + 2e<sup>-</sup></s>&nbsp;E<sup>o</sup>=0.76v<br>Cu<sup>2+</sup> + 2e<sup>-</sup>➡Cu<sub>(s)</sub>&nbsp;E<sup>o</sup>=0.34v<br>Zn + Cu<sup>2+</sup>➡Zn<sup>2+</sup>+Cu &nbsp;E<sup>o</sup>=1.1v<br><br>(II)ΔG = -nFE<sup>o</sup><br>= -2 * 96485 * 1.1<br>=212267J/mol <br> The cell rection is spontaneous because ΔG is negative<br><br>(III)ΔG = -RTlnk<br>k=e<sup>-ΔG/RT</sup><br>K=e<sup>-(-212267/8.3145 * 298)</sup><br>K=e<sup>-(85.670)</sup><br><br>K=1.6674 * 10<sup>37</sup>"
+          },
+          {
+               "question": "Derive the nerst equation from first principle.",
+               "answer": "ΔG = ΔG<sup>o</sup> + RTlnQ <br>where Q=Activity quotient=K<sub>c</sub><br>ΔG=-nFE while ΔG<sup>o</sup>=nFE<sup>o</sup><br>-nFE=-nFE<sup>o</sup> + RTlnQ<br>divide both sides by -nF<br>E=E<sup>o</sup>+RTlnQ/-nF<br>E=E<sup>o</sup> - RT/nF * ln[reduced]/[oxidized]"
+          },
+          {
+               "question": "If the calculated E<span style='font-size:small'>cell</span> for Zn//Cu electrode system is 1.10V at 298K and the K(concentration) of Cu<sup>2+</sup> = 0.04M and Zn<sup>2+</sup> = 0.52M.  Calculate the standard potential of the cell. ",
+               "answer": "E<sub>cell</sub>=E<sup>o</sup><sub>cell</sub> - RT/nF * ln[reduced]/[oxidized]<br>1.1 = E<sup>o</sup><sup>cell</sup> - 8.3145*298/2*96485 * ln[0.04]/[0.52]<br>1.1 = E<sup>o</sup><sup>cell</sup> - 2477.721/192970 * (-2.565)<br>1.1=E<sup>o</sup><sub>cell</sub> + 0.0329<br>E<sup>o</sup>=1.067v"
+          },
+          {
+               "question": "What is electroplating?",
+               "answer": "A process of coating the surfaces of a metal object with a layer of a different metal through electrochemical means.<br><br><img src='../data/media/chem312/img203952396857497310.jpg'>"
+          },
+          {
+               "question": "Mention five application of electrochemistry",
+               "answer": "<b>1. Purification of Metal.<br>2. Electroplating.<br>3. Production of useful chemicals.<br>4. It can be used in separation.</b>"
+          },
+          {
+               "question": "What is an electric double layer ?",
+               "answer": "This occurs when a positively charged surface is surrounded by equal number of negatively charged ions ."
+          },
+          {
+               "question": "With equation of reaction explain how dicarboxylic acids can be prepared from acetoacetic esters.",
+               "answer": "<img src='../data/media/chem312/img6090481217539581015.jpg' />"
+          }
+     ]
+}

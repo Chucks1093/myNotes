@@ -1,0 +1,84 @@
+{
+     "IR Spectroscopry": [
+          {
+               "question": "IR spectroscopy gives information about ___ in a molecule.",
+               "answer": "<b>Functional groups </b>"
+          },
+          {
+               "question": "The IR spectroscopy falls between ____ and ____",
+               "answer": "14000, 10cm<sup>-1</sup>"
+          },
+          {
+               "question": "What are the three division of IR?",
+               "answer": "a) Near IR (14,000 to 4000cm<sup>-1</sup>)<br>b) Mid IR (4000 to 400cm<sup>-1</sup>)<br>c)  Far IR (400 to 10cm<sup>-1</sup>)"
+          },
+          {
+               "question": "Which division of IR is the most important and why ?",
+               "answer": "The Mid IR is the most important because most functional groups absorb at mid IR."
+          },
+          {
+               "question": "The Mid IR is the most important because most functional groups absorb at mid IR.",
+               "answer": "The IR radiation occurs as bands because the energy required to cause molecular vibration could as well cause molecular rotation .<br><br>When organic compounds are subjected to IR radiation the energy released results in molecular  vibration i.e IR gives rise to molecular vibration."
+          },
+          {
+               "question": "<h2>The Relationship of organic molecules to hookes law</h2>",
+               "answer": "<img src='../data/media/chem374/img7520970107179585338.jpg'><br><br><img src='../data/media/chem374/img6075023678826351344.jpg'><br><br><img src='../data/media/chem374/img328613953018354766.jpg'><br><br><img src='../data/media/chem374/img7199955633374255863.jpg'><br><br><img src='../data/media/chem374/img322724769181642223.jpg'><br><br><img src='../data/media/chem374/img729533792163920795.jpg'><br><br><img src='../data/media/chem374/img3678439408928842298.jpg'><br><br><img src='../data/media/chem374/img7246253195496716842.jpg'><br><br>"
+          },
+          {
+               "question": "Calculate the absortion band of OH in IR when the force constant (k) was  7.7 *10<sup>5</sup>dyne/cm",
+               "answer": "<img src='../data/media/chem374/img3360323798797161877.jpg' /><br><img src='../data/media/chem374/img5884704724669318734.jpg' />"
+          },
+          {
+               "question": "Calculate the absorption band of C=C in IR when the force constant is 1.562*10<sup>6</sup>dyne/cm",
+               "answer": "Follow the same steps as the one from above and your answer should be 2100.86m<sup>-1</sup> "
+          },
+          {
+               "question": "Calculate the absorption band of C=O in IR when the force constant is 1.214*10<sup>6</sup>dyne/cm",
+               "answer": "The answer here is 1732.7m<sup></sup>. If you failed it try it again."
+          },
+          {
+               "question": "List and explain the two types of vibrational motion in a molecule.",
+               "answer": "<h3>1. Stretching Vibration</h3><br>Here, the distance between the atoms changes. It could be symmetrical or asymmetrical . <img src='../data/media/chem374/img2435079491498249051.jpg'><br><b>A</b> and <b>C</b> are symmetrical do vibrations of these molecules do not give rise to absorptions on IR.<br><br><h3>2.  Bending Vibration</h3><br>This is as a result of deformations which is as a result of four types.<br><img src='../data/media/chem374/img5767156444845682385.jpg'><br> <br>N:B scissoring and rocking are in plane deformation while wagging and twisting are out of plane deformation. <br>-Scissoring occurs within 1465cm<sup>-1</sup>.<br>-Rocking vibration occurs around 720cm for carbon and hydrogen bond<sup>-1</sup>.<br>-Twisting and Wagging occurs around 1350 to 1150cm<sup>-1</sup>."
+          },
+          {
+               "question": "-Scissoring occurs within ____cm<sup>-1</sup>.<br>-Rocking vibration occurs around ____cm<sup>-1</sup>.<br>-Twisting and Wagging occurs around ____cm<sup>-1</sup>.",
+               "answer": "1465, 720, 1350 to 1150"
+          },
+          {
+               "question": "What are the two conditions required for IR absorption to take place?",
+               "answer": "1. Absorption of IR radiation will occur when the vibrational frequency of the bond matches that of the incident IR radiation.<br><br>2. For IR absorption to take place , the bond vibration must result in a change in the dipole moment of the bond. The higher the change in dipole moment the stronger the absorption."
+          },
+          {
+               "question": "<br>What is the fingerprint region in IR spectroscopy?",
+               "answer": "It is the most crowded region of the spectrum between (600-1400) where strong overlapping absorptions of C-X (X  = O, N, S , P and Halogens) are difficult to assign."
+          },
+          {
+               "question": "Mention four criterions for the appearance of a band In IR spectroscopy.",
+               "answer": "1. A change in the dipole moment occurs during the vibration<br>2. The band does not coincide in frequency with another vibration i.e You mist not have two functional groups absorbing at the same frequency.<br>3. The absorption falls within the Mid-IR region.<br>4. The intensity of the vibration must be strong enough to be observed."
+          },
+          {
+               "question": "Reasons why some fundamental vibrations may not lead to absorption in IR.",
+               "answer": "1. Overtones: They absorb at the same frequency and one is seen.<br><br>2. Combination Tones: Two fundamental vibration combine at different frequency."
+          },
+          {
+               "question": "State the Gross selection Rule.",
+               "answer": "This state that for the change in vibrational state the electric dipole moment of the molecule must change when the molecules are displaced relative to one another ( the molecule need not have permanent dipole)  A diatomic molecule with the same atoms cannot be excited to vibrate because no dipole moment is present. ."
+          },
+          {
+               "question": "Explain how you would prepare a liquid or low melting solid for IR spectroscopy.",
+               "answer": "A small amount of liquid or low melting solid is placed between two NaCl plates that are then pressed together to form a thin film of liquid with some gentle squeezing to remove air bubbles.The plates should always be protected from moisture which could destroy the polished salt surface and result in some scattering of IR radiation.<br> AgCl or BaF<span style='font-size:small'>2</span> could also be used in place of NaCl.<br> IR spectra of low melting solids and liquids can be obtained by dissolving the sample in a relatively IR transparent solvent such as CCl<span style='font-size:small'>4</span> and using simple liquid cells. "
+          },
+          {
+               "question": "Why can an entire spectrum be run using  a single solvent in FTIR<br>",
+               "answer": "<b>FTIR</b> instrument has the capability of to subtract solvent band making it possible to run the entire spectrum using a single solvent."
+          },
+          {
+               "question": "Explain how to prepare a solid sample for IR spectroscopy.",
+               "answer": "This can be obtained as a pellet , a mull or a solution. A pellet is made by grinding the sample with dry powdered KBr or other suitable alkali metals using a mortar and pestle . This grounded mixture is them pressed in a transparent  disc or pellet using a mini press or a special compression disc under high pressure."
+          },
+          {
+               "question": "How can the IR of a  gaseous molecule be determined?",
+               "answer": "A gas sample is created by allowing the sample to expand into an evacuated cylindrical cell which has special windows than will not absorb the infrared light. "
+          }
+     ]
+}

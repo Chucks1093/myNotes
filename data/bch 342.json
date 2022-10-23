@@ -110,7 +110,25 @@
           },
           {
                "question": "What Diet strategies is used in preventing and treatment of CHD.<br>",
-               "answer": "The best diet strategy for preventing heart disease is one that is full of fruits and vegetables, whole grains, nuts, fish, poultry, and vegetable oils; includes alcohol in moderation, if at all; and goes easy on red and processed meats, refined carbohydrates, foods and beverages with added sugar, sodium, and foods with trans fat.[sound:ankidroid_audiorec5249328295007192740.3gp]"
+               "answer": "The best diet strategy for preventing heart disease is one that is full of fruits and vegetables, whole grains, nuts, fish, poultry, and vegetable oils; includes alcohol in moderation, if at all; and goes easy on red and processed meats, refined carbohydrates, foods and beverages with added sugar, sodium, and foods with trans fat.<audio src='../data/media/bch342/ankidroid_audiorec5249328295007192740.mp3' controls ></audio>"
+          }
+    ],
+    "Nutritional Epidemiology": [
+          {
+               "question": "What is a nutritional epidemiology",
+               "answer": "Nutritional epidemiology is the study of how diets affects health and disease in human populations."
+          },
+          {
+               "question": "List and  explain four methods of nutritional assessment.",
+               "answer": "1. <b>Anthropometry Method</b>: This method requires the use of indirect indicators of nutritional status. These include height, weight, head circumference, body mass index (BMI), skin-fold thickness e.t.c.<br><br>2. <b>Biochemical Method</b>: This includes measuring a nutrient  or it's metabolite in the blood , faces , urine or other tissues that have a relationship with the have a relationship with the nutrient. This method is useful for  determining if an individual has diabetes.<br><br>3. <b>Clinical Method</b>: This involves checking signs of deficiency at specific places of the body or asking the patient whether they have any symptom tht might suggest nutritional deficiency.<br><br>4. <b>Dietary Method</b>: This involves looking at past or current intakes of nutrients from the food by individuals or a group to determine their nutritional status."
+          },
+          {
+               "question": "List and explain four ways in which the Dietary method can be taken.",
+               "answer": "1. <b>24-hour recall</b>:A trained professional asks the subject to recall all the food and drinks consumed in the previous 24 hours.<br><br>2.<b>Food frequency questionnaire</b>: Here the subject is given a list of foods and asked to indicate intake per day, per week  and month.<br><br>3.<b>Food Diary</b>: Also known as food journal or food record requires the subject to record the food at the time of eating which is difficult to maintain.<br><br>4.<b>Observed God Consumption</b>:. This method requires food to be weighed and exactly calculated. Although it is accurate it takes time."
+          },
+          {
+               "question": "List five problems encountered in Nutritional Epidemiology.",
+               "answer": "1. <b>Extensive time for disease development</b>: This is due to the fact that the cause of  several disease e.g colon cancer can't be traced using the current diet status of the subject but result from a diet status from a long time in the last.<br><br>2.<b>Multifactorial Nature of chronic Disease</b>: It is difficult to ascribe a particular dietary intake with disease risk. E.g if vegetable intake is found to be associated with reduced risk of chronic disease, it can be difficult to determine whether it is high vegetable intake of low-fat intake that is affecting disease risk.<br><br>3.<b>Research in Human beings</b>: It would be extremely difficult to subject humans to harzadous food intake to know what disease risk such diet intake is related to.<br><br>4.<b>Environment Factor</b>: Every environment has a unique factor responsible for a particular disease and which is different from other environment.<br><br>5.<b>Measurement</b>: Measuring dietary intake in large populations remain a challenge due to variations arising from omission of foods , errors in estimating population size and over-or under-reporting because of social approval. (respond In certain ways to get social praise) or social desirability (respond in certain ways avoid  social criticism)<br>"
           }
     ] 
 }
