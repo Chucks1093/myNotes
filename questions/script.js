@@ -4,23 +4,24 @@ import createDevModal from "../components/createDevModal";
 import openModal from "../openModal";
 
 
-const title = document.querySelector('header > p');
-const courseContainer = document.querySelector('main');
-const devInfo = document.querySelector("#dev-info");
-const notificationBtn = document.querySelector("#notification-btn");
-
-const dataName = localStorage.getItem("name").toLowerCase();
-const sectionName = localStorage.getItem("section");
-
-async function getData(){
+async function getData(component,header){
+     const sectionName = localStorage.getItem("section");
+     const dataName = localStorage.getItem("name").toLowerCase();
+     const title = header.querySelector('#title');
      const data = await import(`../data/${dataName}.json`);
      title.textContent = `${sectionName}`;
      data.default[sectionName].map(name=> {
-          createQuizUI(name["question"], name["answer"], courseContainer);
+          createQuizUI(name["question"], name["answer"], component);
      });
 
-}
+};
 
-createDevModal(devInfo);
-openModal(devInfo, notificationBtn);
-getData();
+function questionsFunctions(page){
+     const [devInfo, header, courseContainer] = page.children;
+     createDevModal(devInfo);
+     openModal(devInfo, header.children[2]);
+     getData(courseContainer, header);
+
+};
+
+export default questionsFunctions;

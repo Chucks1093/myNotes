@@ -9,18 +9,22 @@
      <link rel="stylesheet" href="/style.scss">
     </head>
     <body>
-        <div id="dev-info"></div>
-        <header>
-            <div class="app-details">
-                <a href="/index.html" class="app-name">myNotes</a>
+        <div data-barba="wrapper">
+            <div data-barba="container" data-barba-namespace="sectionsPage">
+                <div id="dev-info"></div>
+                <header>
+                    <div class="app-details">
+                        <a href="/index.html" class="app-name">myNotes</a>
+                    </div>
+                    <p id="title">Notes</p>
+                    <button class="notification-btn" id="notification-btn">
+                        <img  src="/bell.svg" alt="">
+                        <div class="notification" id="notification"></div>
+                    </button>
+                </header>
+                <main></main>
             </div>
-            <p id="title">Notes</p>
-            <button class="notification-btn" id="notification-btn">
-                <img  src="/bell.svg" alt="">
-                <div class="notification" id="notification"></div>
-            </button>
-        </header>
-        <main></main>
-    <script type="module" src="./script.js"></script>
+        </div>
+        <script type="module" src="/main.js"></script>
 </body>
 </html>
