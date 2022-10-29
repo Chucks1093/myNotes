@@ -1,7 +1,8 @@
 import Barba from "@barba/core";
 import homeFunctions from "./script";
 import sectionsFuntions from "./sections/script";
-import questionsFunction from "./questions/script"
+import questionsFunction from "./questions/script";
+import showCards from "./showCards";
 
 
 Barba.init({
@@ -17,7 +18,7 @@ Barba.init({
                namespace: "sectionsPage",
                beforeEnter({next}){
                     sectionsFuntions(next.container);
-               }
+               }    
           },
           {
                namespace: "questionsPage",
@@ -29,23 +30,14 @@ Barba.init({
           
      ],
      transitions: [
-          // {
-          //      name: "homePage",
-          //      to: {
-          //           namespace: ["homePage"]
-          //      },
-          //      beforeEnter(data) {
-          //           homeFunctions();
-          //      }
-          // },
-          // {
-          //      name: "sectionsPage",
-          //      to: {
-          //           namespace: ["sectionsPage"]
-          //      },
-          //      beforeEnter(data) {
-          //           sectionsFuntions();
-          //      }
-          // }
+          {
+               once({next}){
+                    showCards(next.container.children[2])
+               },
+               enter({next}) {
+                    showCards(next.container.children[2])
+               }
+
+          },
      ]
 })
