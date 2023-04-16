@@ -2,7 +2,6 @@
 import { Fragment } from "react";
 import Quiz from "../components/Quiz";
 import { useState, useEffect } from "react";
-import katex from 'katex';
 
 
 

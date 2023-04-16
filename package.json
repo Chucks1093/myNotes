@@ -12,10 +12,8 @@
     "@types/react-latex": "^2.0.0",
     "gsap": "^3.11.5",
     "html-react-parser": "^3.0.15",
-    "katex": "^0.16.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-latex": "^2.0.0",
     "react-router-dom": "^6.10.0",
     "sass": "^1.60.0"
   },
