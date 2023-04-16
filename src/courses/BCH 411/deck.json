@@ -1,0 +1,700 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "0870dc7f-cd90-11ed-831b-842afdcd6eb6",
+            "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot_20230225-193637.jpg",
+                "images (10).jpeg"
+            ],
+            "name": "Assignments",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Differentiate between storage and structural polysaccharide using the structure of starch , cellulose and chitin.",
+                        "Storage polysacchrides, such as starch and glycogen, are used to store energy in cells. These polysaccharides are typically composed of glucose monomers, which are linked together by alpha glycosidic bonds. Starch and glycogen have a brached structure, meaning that they have side structure, meaning that they have side chain of glucose units that branch off the main chain.<hr/><hr/>Structural polysaccharides, such as cellulose and chitin, provide structural support to cells and tissues. These polysaccharides are also composed of glucose monomers, but they are linked together by beta glysocidic bonds. Unlike starch and glycogen, celllulose and chitin have a linear structure, meaning that so not have linear branches.<hr/><hr/>In the case of starch, it is comoposed of two different types of glucose polymers: amylose and amylopectin. Amylose is a linear polymer of glucose, while amylopectin is branched, This branching is due to the prensence of alpha-1,6-glycosidic bonds, which form branches off the main chain.<hr/><hr/>Cellulose, on the other hand, is a linear polymer of glucose, with beta-1,4-glycosidic bonds linking the glucose units together. The linear structure of cellulose allows it to form strong, rigid fibers that provide structural support to plant cell walls.<hr/><hr/>Chitin, another structural polysaccharide, is similar to cellulose in that it is a linear polymer of glucose. However, in chitin, the glucose monomers are modified by the additon of an amino group, which gives it unique properties. The beta-1,4-glycosidic units create ling, unbranched chains thrat are cross-linked by hydrogen bonds, forming a tough, insoluble material that provides structural support to the exoskeletons of arthropods and the cell wall of some fungi."
+                    ],
+                    "guid": "Nwk(@O~=[P",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Draw the 20 amino acids and relate their properties to their R groups.",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fimages%20(10).jpeg?alt=media&token=2b0a111f-5d1a-4d97-815c-58258094ad7f\"><hr/><hr/><ol><li>&nbsp;<b><u>Nonpolar (Hydrophobic)</u></b>: Nonpolar amino acids have hydrophobic side chains that do not interact well with water and tend to aggregate in the hydrophobic regions of proteins.</li><li><b><u>Polar (Hydrophilic)</u></b>: Polar amino acids have hydrophilic side chains that interact well with water and are usually found on the surface of proteins.</li><li><b><u>Charged(Positively charged/basic)</u></b>: Basic amino acids have positively charged side chains due to the presence of basic functional groups such amines. These amino acids have high pKa values and can participate in hydrogen bonding and electostatic inteeractions with other molecules.</li><li><b><u>Charged(Negatively charged/acidic)</u></b>: Acidic amino acids have negatively charged side chains due to the presence of acidic functional groups such as carboxyls. These amino acids have low pKa values and can participate in hydrogen bonding and electrostatic interactions with other molecules.</li><li><u style=\"font-weight: bold;\">Aromatic: </u>Aromatic amino acids have aromatic side chains and are important in stabilizing the three-dimensional structure of proteins . They can participate in hydrophobic interactions and contribute to the formation of stabilizing hydrophobic coresof proteins.</li></ol>"
+                    ],
+                    "guid": "H<n:(.WYnc",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe the four levels of protein structure.",
+                        "<ul><li><b><u>Primary Structure:</u></b> The primary structure of a protein is simply the linear sequence of amino acids that make up the protein. The sequence is determined by the gene that encodes the protein, and each amino acid is joined to the next by a peptide bond. The sequence of amino acids is usually written from the amino terminus (N-terminus) to the carboxyl terminus (C-terminus). The primary structure is the most basic level of protein structure, but it is also the most important because it determines the protein shape and function.</li><li><b><u>Secondaty Structure</u></b>: The secondary structure of protein refers to the way in which the protein folds in on itself. There are two common types of secondary structure : alpha helices and beta sheets. In an alpha helix, the polypeptide chain twists into a righy-handed helix, with hydrogen bonds forming between the amino and carboxyl groups of the peptide bonds. In beta sheets, the polypeptide chain folds back and forth on itself, with hydrogen bonds forming between adjacent segments of the chain.</li><li><b><u>Tertiary Structure</u></b>: The tertiary structure of a protein refers to the overall three-dimensional shape of the protein. The shape is determined by the interactions between the R-groups of the amino acids in the protein. These interactions include hydrogen bonds. hydrophobic interactions, van der Waals forces, and disulfide bonds. The teriary structure of a protein is crucial to its function, as it determines the protein's ability to bind to other molecules and perform specific chemical reactions.</li><li><b><u>Quaternary Structure</u></b>: The quaternary sturucture of a protein refers to the way in which multiple protein subunits come together to form a larger protein complex. These subunits can be identical or different , and they are held together by the same types of interactions that govern the tertiary structure. Examples of proteins with quaternary structure include hemoglobin , which id comoposed of four subunits insulin, which is composed of two subunits.</li></ul>"
+                    ],
+                    "guid": "H.$A;G[;IB",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe the <b><i>Sickle Cell Disease.</i></b>",
+                        "It is caused by a change in the primary structure of a protein. It is a blood disorder caused by substitution of <b><i>glutamic acid</i></b> at a paticular position in the primary structure of haemoglobin with <i style=\"font-weight: bold;\">valine. </i>Normal RBC are disc shape but in sickle cell disease the abnormal haemoglobin tend to crystallize deforming some of the cell into sicle shape.<hr/>A person with the disease has periodic sickle cell crisis when the angular cells clog tiny blood vessels impeding blood flow which causes a lot problems to the victim."
+                    ],
+                    "guid": "g:nT5X:-`O",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Illustrate diagramatically the conversion of single stranded retroviral RNA into double stranded DNA&nbsp; by reverse transcriptase.",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2FScreenshot_20230225-193637.jpg?alt=media&token=6f7c24c8-7f80-41a5-8fe2-b46aaf4837c9\"><hr/><hr/><ol><li>Binding of reverse transcriptase to the retroviral RNA: The first step in reverse transcription is the binding of reverse transcriptase to the retroviral RNA template. Reverse transcriptase binds to a specific region of the RNA called the primer binding site(PBS). The PBS serves as a primer for reverse transcriptase, allowing the enzyme to initiate synthesis of a complementary DNA strand.</li><li>Synthesis of the first strand of cDNA : Once bound to the PBS , reverse transcriptase begins synthesizing a complementary DNA (cDNA) strand using the RNA template as a guide. The enzyme adds deoxynucleotide triphosphates (dNTPS) to the growing cDNA strand in a sequence-specific manner. The process of cDNA synthesis continues until the enzyme reaches the end of the RNA template.&nbsp;</li><li>RNase H-mediated degradation of the RNA template: After the first strand of cDNA&nbsp; is synthesized, RNase H, an enzyme that is associated with reverse transcriptase, degraded the RNA&nbsp; template. RNase H recongnizes RNA-DNA hybrids (i.e, regions where the RNA template is base-paired with the newly synthesized cDNA) and cleaves the RNA strand at these sites. The degradation of the RNA template frees the newly synthesized cDNA strand, allowing it to serve as a template for the synthesis of second strand of cDNA.</li><li>Synthesis of the second strand of cDNA: Once the RNA template has been degraded, reverse transcriptase initiated synthesis of the second strand of cDNA using the first strand of cDNA as a template. The enzyme adds dNTPS to the growing cDNA as a template. The enzyme adds dNTPs to the growing cDNA strand in a sequence-specific manner, producing a double-stranded cDNA molecule that is complementary to the retroviral RNA template.&nbsp;</li><li>Integration of the cDNA into the host cell genome: Once the cDNA has been synthesized, it is transported into the nucleus of the host cell, where it is integrated into the host cells genome by the viral enzyme integrase. Integration of the cDNA into the host cell genome is a critical step in the replication cycle of retroviruses, as it enables the virus to persist in the host cell and replicate along with the host cell's DNA.</li></ol>"
+                    ],
+                    "guid": "j7ErH<l5Bz",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "095d7a33-cd90-11ed-9254-842afdcd6eb6",
+            "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-407ee486505324933989ab6fabbffcd1452792e3.jpg",
+                "paste-850daa834143c6b01a7dbc01a45c1d77a4a571ad.jpg",
+                "paste-c80bd926a1416fe8c5e29419195a86e1a63aea4a.jpg",
+                "paste-f65e251ba9ba62c38e153d7ee3324ffc9914ffbd.jpg"
+            ],
+            "name": "Protein Synthesis",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mention the three stop condons.",
+                        "<ul><li>UAG&nbsp;</li><li>UAA</li><li>UGA</li></ul>They are also known as <b>termination codons</b> or <b>nonsence condons.<hr/></b>Also remember start condon is called <b>AUG</b>.<hr/><hr/>"
+                    ],
+                    "guid": "tx2JIh|l3%",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the components that are required for the synthesis of proteins?",
+                        "<ul><li>Amino acids</li><li>Messenger RNA (mRNA)</li><li>Transfer RNAs (tRNA)i</li><li>Functional ribosomes (70S\nin prokaryotes and 80S in eukaryotes)</li><li><div>Protein\nfactors (initiation, elongation and termination factors)</div></li><li><div>Enzymes\n(aminoacyl-tRNA synthetases and peptidyl transferase)</div></li><li><div>Energy\nsources (ATP and GTP)</div></li></ul>"
+                    ],
+                    "guid": "P(p|`K;hYi",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mention the steps involved in protein synthesis",
+                        "<ul><li>Activation of amino acids</li><li>Initiation</li><li>Elongation</li><li>Termination</li><li>Posttranslational processing</li></ul><hr/>"
+                    ],
+                    "guid": "N^39mF?cIQ",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefly describe how amino acids are activated for protein synthesis .",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-c80bd926a1416fe8c5e29419195a86e1a63aea4a.jpg?alt=media&token=ac6db3d4-8934-40bc-b537-56988a0ef72d\"><hr/><hr/>This step involves the covalent attachment of each of the 20 amino acids to its specific tRNA using&nbsp;<hr/>ATP with the aid of Mg<sup>2+</sup>-dependent activating enzymes known as <b>aminoacyl-tRNA synthetases</b>. The tRNA are said to be charged when atteched t o their amino acids. The activation step is generally represented as :<hr/><hr/>Amino acid + tRNA + ATP ------&gt; Aminoacyl-tRNA&nbsp; + AMP + PPi.<hr/><hr/>A reaction specific to a particular amino acif such aas methionine involving phenylalanyl-tRNA, catalyzed by Phe-tRNA synthetase will thus be represented as:<hr/><hr/>Phenylalanine + tRNA<sup>phe</sup>&nbsp;+ ATP&nbsp;&nbsp;------&gt;&nbsp;Phe-tRNA<sup>Phe</sup>&nbsp;+ AMP + PPi."
+                    ],
+                    "guid": "kFtn!,iMo<",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefky describe the initiation process of protein synthesis.",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-850daa834143c6b01a7dbc01a45c1d77a4a571ad.jpg?alt=media&token=d2e5fdf6-e9c5-4167-b187-396aaf4a8c9f\"><hr/><hr/>This process requires the use of the initiating factors(IF-1, IF-2 and IF-3), the 50S and 30S subunits of the 70s ribosome, GTP and the fMet-tRNA<sup>fMet</sup>&nbsp;. The fMet-tRNA<sup>fMet&nbsp;</sup>&nbsp;is different from Met-tRNA<sup>Met</sup>&nbsp;because it is <b>only</b> used to recongnize the initial AUG codon that initiated protein synthesis.<hr/><hr/>In prokaryotes, the first initiation step involves the binding of IF-1 and IF-3 to the 30S subunit of the ribosome. IF-1 binds to the A site in order to prevent tRNA from binding to this site while IF-3 prevents the 50s subunit from binding to the 30S subunit prematurely.<hr/><hr/>The initiating AUG codon is positoned at the P site of the 30S subunit on which the fMet-tRNA<sup>fMet</sup>&nbsp;binds and it is the only aminoacyl tRNA that <b><i>first</i></b> binds to the P site.<hr/><hr/>GTP-bound IF-2 and fMet-tRNA<sup>fMet</sup>&nbsp;binds to the complex (consisting of 30S subunit, IF-3, IF-1 and mRNA), with the fMet-tRNA<sup>fMet&nbsp;</sup>&nbsp;binding to the initiating AUG codon of the mRNA.<hr/><hr/><div>The\ncomplex finally combines with the 50S subunit with the hydrolysis of the GTP\nbound to IF-2, and the release of all the initiation factors. This produces the\nfunctional 70S ribosome referred to as the <b>initiation complex</b>.</div><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-407ee486505324933989ab6fabbffcd1452792e3.jpg?alt=media&token=257af506-9705-43a5-81fe-e72fda9d5112\"><hr/>"
+                    ],
+                    "guid": "tw,}3M6z,u",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefly describe the <b>elongation </b>process of protein synthesis.",
+                        "This step involves the addition of amino acid to the carboxyl end of the growing polypeptide chain.<hr/><hr/>A peptide bond is formed between the amino acid on the aminoacyl tRNA in the A site and the&nbsp;<i>N</i>-formylmethionine bound to the <i>N</i>-formylmethionyl tRNA in the P\nsite. This reaction is catalyzed by peptidyl transferase . This\nresults in the formation of a dipeptidyl-tRNA in the A site, leaving the uncharged\ntRNA<sup>fMet</sup> in the P site.&nbsp;<hr/><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-f65e251ba9ba62c38e153d7ee3324ffc9914ffbd.jpg?alt=media&token=0910b8ff-a4e0-488e-8154-eed600449156\"><hr/>&nbsp;The dipeptidyl tRNA in the A site\nis translocated to the P site by the movement of the 70S ribosome one codon in\nthe 5′ to 3′ direction . This movement is facilitated by the enzyme <b>translocase.</b>&nbsp;This then moves the dipeptidyl tRNA to the P site and and the uncharged tRNA from the P site to the E site into the cytosol leaving the A site vacant in order to receive another amino acid .<hr/><hr/>The polypeptide continues to elongate in the P site and The ribosome continues to move codon to codon until all the amino acid\nresidues are added."
+                    ],
+                    "guid": "e`d.BD,;`7",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefly describe the <b>termination&nbsp;</b>process of protein synthesis.",
+                        "This process occurs when a termination codon is encountered in the mRNA (UGA or UAA or UAG) at the A site.&nbsp;<hr/><hr/>Since cells do not contain tRNAs with anticondon complementary to the stop condons tRNA won't bind to the A site.<hr/><hr/>When any of the termination condon is recongnised at the A site the termination factors or release factors (RF-1, RF-2 and RF-3) will bind to the termination codon, releasing the new polypeptide by inducing peptidyl transferase to\ntransfer the polypeptide to a water molecule rather than form a peptide bond\nwith another amino acid. RF-1 recognizes the termination codons UAA and UAG, while RF-2\nrecognizes UGA and UAA.&nbsp;<hr/><hr/>The release of the last uncharged tRNA from the P site is also aided by\nthe release factors, after which the release factors dissociate and are\nreplaced by EF-G and ribosome recycling factor (RRF).&nbsp;"
+                    ],
+                    "guid": "y5z5CNO(e>",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "List and explian any Posttranslational processing that you know.",
+                        "<ol><li><div><b>Amino-and\ncarboxyl-terminal modifications:&nbsp;</b>The formyl group, some residues at the amino terminal and some\ncarboxyl-terminal residues may be removed in the formation of the\nfinal functional protein of many eukaryotes. In many eukaryotic proteins, the amino group of the amino terminal\nresidue is <i>N</i>-acetylated after synthesis.&nbsp;</div></li><li><div><b>Loss\nof signal sequences:&nbsp;</b>Some\nproteins contain about 15 to 30 amino acid residues at the amino terminal which\nhelps in directing the proteins to their ultimate destination in the cell.&nbsp; These residues are known as signal sequences,\nand are eventually removed by specific peptidases after performing their\nfunction, to yield the final functional protein.</div></li><li><div><b>Modification\nof individual amino acids:&nbsp;</b>Amino acids containing hydroxyl groups such as serine, threonine and\ntyrosine are enzymatically phosphorylated by ATP, thereby introducing negative\ncharges to some polypeptides. The functional significance of this modification\nvaries from one protein to another. For example, the phosphoserine groups in\ncasein (milk protein) binds Ca<sup>2+</sup>, and this is important for children\nas casein provide a source of amino acids, phosphate and calcium which are all\nimportant nutrients for children’s growth.</div></li><li><div><b>Attachment\nof carbohydrate side chains:&nbsp;</b>Some polypeptide, known as glycoproteins requires carbohydrate side\nchains to function. These side chains are attached covalently during or after\nthe synthesis of the protein. Some glycoproteins called <i>N</i>-linked\noligosaccharides require enzymatic attachment of the carbohydrate side chain to\nasparagine residues while in <i>O</i>-linked oligosaccharides, the side chains\nare attached to serine or threonine residues.&nbsp;</div></li><li><div><b>&nbsp;</b><b>Proteolytic\nprocessing:&nbsp;</b>Proteolytic cleavage is necessary to produce the final active form of\nmany proteins. This is because many proteins are synthesized as large, inactive\nprecursors, which are necessarily trimmed to produce smaller active forms.\nExamples of such proteins requiring proteolytic cleavage include – proinsulin.</div></li><li><div><b>Formation\nof disulfide cross-links:&nbsp;</b>Some proteins are exported from the cells to the sites they perform\ntheir functions, after spontaneously folding into their native conformations.\nIn other to protect the native conformation of these proteins from denaturation\nduring export in the extracellular environment, these proteins are covalently\ncross-linked by the formation of interchain or intrachain disulfide bridges\nbetween cysteine residues.</div></li><li><div>&nbsp;<b>Addition\nof isoprenyl groups:&nbsp;</b>Modification of some eukaryotic proteins involves the addition of\nisoprenyl groups, which anchors these proteins in the membrane so as to perform\ntheir functions. e.g Ras proteins</div></li><li><div><b>Addition\nof prosthetic groups:&nbsp;</b>Prosthetic groups are covalently added to proteins requiring these\ngroups for their function after synthesis.Examples include:&nbsp; addition of heme group to cytochrome c or hemoglobin.</div></li></ol>"
+                    ],
+                    "guid": "KA$h{F4&o8",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "07ecb24f-cd90-11ed-9ec8-842afdcd6eb6",
+            "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "phospholipids.jpeg",
+                "steroids.webp"
+            ],
+            "name": "Structure and Function of Macromolecules",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The critically important large molecules of all living things from bacteria to elephants fall into 4 main classes which are :",
+                        "<ul><li>Carbohydrates</li><li>Lipids</li><li>Proteins</li><li>Nucleic Acid</li></ul>"
+                    ],
+                    "guid": "OI]Pr=GK^n",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Define a Polymer?",
+                        "A polymer is a long molecule consuming of many similar or identical building blocks linked by covalent bonds. The repeating unit serves as a building block of a polymer are smaller molecule called <b>Monomers.</b>"
+                    ],
+                    "guid": "o#r!lR!+*p",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefly explain how polymers are formed from monomers?",
+                        "Polymers are formed when monomers are undergo dehydration reaction in which two molecules are covalently bonded to each other with the loss of a water molecule. One monomer provides the hydroxy group and the other provides the hydrogen atom. This reaction is repeated as monomers are added to the chain one by one forming a polymer."
+                    ],
+                    "guid": "hy@n3oE!5`",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Briefly explain how polymers are broken down into monomers?",
+                        "Polymers are dissasembled to monomer by undergoing hydrolysis reaction. Here, the bond between the monomers are broken by the addition of a water molecule with the hydrogen from the water attaching to one monomer and the hydroxyl group attaching to the adjacent monomer. Example is the process of <b>Digestion.</b>"
+                    ],
+                    "guid": "JFo$$Ha4zr",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b><u>STORAGE POLYSACCHARIDE</u></b>",
+                        "Plants stores starch which is a polymer of glucose monomers. Most animals including humans also have enzymes that can hydrolyse plant starch making glucose available&nbsp; as a nutrient for cells.&nbsp;<hr/><hr/>Most of the glucose monomers in starch are joined by 1--&gt;4 linkages like the glucose unit in maltose. The simplest form of (amylose) is unbranched. Amylopectin which is a complex form of starch is a branched form of polymer with 1--&gt;6 linkages at the branched point.<hr/><hr/>Animals store a polysaccharide called glycogen. Glucogen is mostly stored in liver and muscle cells . Hydrolysis of glycogen in these cells releases glucose when the demand for sugar increases."
+                    ],
+                    "guid": "O/!JzAnT;l",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b><u>STRUCTURAL POLYSACCHARIDE</u></b>",
+                        "Cellulose is a major component of the tough walls that enclose plant cells.&nbsp;<hr/>Cellulose and starch have the same monomer (glucose) but they slightly different.&nbsp;<hr/>In starch, all the glucose monomers are in ∝ configuration while the glucose monomer of cellulose are in the β-configuration making each glucose monomer upside down in respect to its neighbours. <hr/><hr/>A cellulose molecule is straight and never branched and some hydroxyl groups on its glucose monomers are free i.e hydrogen bond with hydroxyl groups of other cellulose molecule lying parallel to it. In plant cell wallsm Parallel cellulose molecules are held together in this way are grouped into units called microfibrils. This cable-like microfibrils are strong building material for plant.<hr/><hr/>Enzymes that digests starch in some animals by hydrolyzing its ∝-linkages are unable to hydrolyze the β-linkages of&nbsp;&nbsp;of cellulose because of the distinctly different shaped of these two molecules.<hr/>When plant are ingested by animals the cellulose abraides the wall of the digestive tract and stimulate the lining to secrete mucous which aids in the smooth passage of food through the tract .<hr/><hr/>Animals such as cow possess protists in their stomach that help to digest cellulose in order to release the corresponding glucose molecule.<hr/><hr/>Chitin is another important structural polussacharride that is found in Arthropods which include insects, crustaceans in order to build their exoskeleton. Chitin is similar to cellulose with the β-linkages except that the glucose monomer of chitin has a nitrogen contained in it ."
+                    ],
+                    "guid": "qO$Y,6_Ro0",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two bioligical components of lipids?",
+                        "<ol><li>Fats and Oil.</li><li>Phospholipids</li></ol>"
+                    ],
+                    "guid": "C]mn2|ijd+",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Write short note on fat and oil .",
+                        "Fat and oil is constructed from two kinds of smaller molecules namely glycerol and fatty acids. <hr/><b><hr/>Glycerol </b>is an alcohol with each of its three carbons bearing an hydroxyl group.<hr/><hr/>The<b> Fatty acid </b>has a long carbon skeleton usualy between 16-18 carbon atom. The carbon at one end of the skeleton is part of the carbonyl group which is the functional group that gives those molecules the name fatty acid. The rest of the skeleton consist of the hydroarbon chain . The relatively non-polar O-H bonds in the hydrocarbon chain of the fatty acids are the reasons fats/oil are hydrophobic.<hr/><hr/>In making fats/oil , three fatty acid molecules are each joined to glycerol by an ester linkage which is a bond between a hydroxyl group and carboxyl group to form a molecule called <b>TRIACYLGLYCEROL.</b>"
+                    ],
+                    "guid": "OrlL#-u:&&",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Differene between saturated and unsaturated fatty acids.",
+                        "Saturated fatty acids are those fatty acids that do not have double bonds in their structures while Unsaturated fatty acids are fatty acids that possess double bonds in their structures.<hr/>Saturated animal fats such as butter are solid at room temp while the fats of plants and fishes are generally unsaturated. They are usually liquid at room temperature. This is because the kinks where the cis double bonds are located prevents the molecules from packing together closely enough to solidify at room temp."
+                    ],
+                    "guid": "NE:rXyLCVQ",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does the phase hydrogenated vegetaable oils on food labels mean?",
+                        "This means that unsaturated fats has been synthetically converted to saturated fats by adding hydrogen . Peanut butter, margarine and many other products are hydrogenated to prevent lipids from separating out in a liquid form."
+                    ],
+                    "guid": "GH9O>fL:52",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Write short note on Phospholipid?",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fphospholipids.jpeg?alt=media&token=76c211ec-4076-4092-960c-e036249d24ae\"><hr/><hr/>Phospholipid consist of a glycerol molecule two fatty acid chains, and a phosphate group which has a negative eletrical charge in the cell. The fatty acid chains are hydrophobic, meaning they repel water, while the phosphate group is hydrophilic, meaning it attracts water.<hr/><hr/>When a phospholipid is added to water , they self assemble into double layered structures called bilayers, shielding their hydrophobic portion from water. The hydrophobic heads of the molecules are on the outside of th bilayer in contact with the aqueous solution and the hydrophobic tails tend to lie in the interior part of the bilayer away from the water .<hr/>"
+                    ],
+                    "guid": "na0DT%4|:8",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What short note on steroids?",
+                        "Steroids are lipids that are characterized by a carbon skeleton consisting of 4 closed ring.<hr/><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fsteroids.webp?alt=media&token=cbfac84d-c00f-4578-8ade-b98cb4fedb95\"><hr/><hr/>Different steroids such as cholesterol and the veterbarate sex hormone are distinguished by the partucualr chemical groupa attached to their ring."
+                    ],
+                    "guid": "cDX1;mjbsL",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the key factors that determine protein structure?",
+                        "<ol><li><b><u>Amino acid sequence</u></b>: The specific sequence of amino acid in a protein chain is the primary determinant of its structure, since eachh amino acid has unique chemical properties that affect its interactions with neighbouring amino acids.</li><li><b><u>Covalent Bonds</u></b>: Covalent bonds such as peptide bonds, determine the backbone structure of the protein.</li><li><b><u>Non-covalent Interacteration</u></b>: Non-covalent interacteractions, such as hydrogen bonds, electrostatic interacteractions, van der Waals forces, and hydrophobic interaction are involved in determining the three-dimensional structure of a protein.</li><li><b><u>Environmental Conditions</u></b>: Environmenal conditoins such as temperature , pH , and salt concentration, can cause proteins to denature and lose their structure.</li><li><b><u>Chaperones</u></b>: Chaperones proteins help to facilitate proper folding&nbsp; of other proteins by preventing them from aggregating and assessing and assisting in their folding process.</li></ol>"
+                    ],
+                    "guid": "bN`~)1b&a8",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does protein folding occur in the cell?",
+                        "This requires the use of proteins called <b>chaperons or&nbsp; chaperonins.&nbsp;</b>&nbsp;Though chaperonins do not specify the final structure of a polypeptide, they keep the new polypeptide segregated from \"bad influcnces\" in the cytooplasmic environment while it folds spontaneously.<hr/><hr/>In the past decade, researchers have discovered molecular systems that interact with chaperonins and check whether proper folding has occured. Such system either refolds the misfolded protein correctly or marks them for destruction"
+                    ],
+                    "guid": "iXwm4UK=W+",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mention three methods that can be used to determine the 3D structure of proteins.",
+                        "<ul><li>X-ray Crystallography</li><li>NMR spectroscopy</li><li>The use of bioinformatics</li></ul>"
+                    ],
+                    "guid": "sS>$%LA]*_",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Write short note on nucleic acids?",
+                        "Nucleic acids are complex orgainic molecules that store , transmit , and express genetic genetic information in living cells. They are made up of nucleotides, which are members consisting of a nitrogenous base, a five-carbon sugar, and a phosphate group.<hr/><hr/>The portion of a nucleotide without any phosphate group is called a <b>nucleoside</b>. There are two families of nitrogenous base, the pyrimidenes and purines. A pyrimidine has six membered ring of carbon and nitrogen atoms. The members of the pyrimidines are cytosine , Thymine and Uracil. Purines are larger with a six membered ring fused to a five membered ring. The purines are adenine and Guanine.<hr/><hr/>Adenine, Guanine and Cytosine are found in both DNA &amp; RNA. Thymine is found in only DNA and&nbsp; Uracil is only found in RNA."
+                    ],
+                    "guid": "h>=l,V+<@~",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are biomolecules?",
+                        "Biomolecule is defines as an organic molecule produced by an organism which primarily consists of carbon, hydrogen and oxygen to a lesser extent phosphorus and sulphur."
+                    ],
+                    "guid": "e9C_Qf_#{K",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mention the four types of biomolecules?",
+                        "<ol><li>Carbohydrates</li><li>Protein</li><li>Lipid</li><li>Nucleic Acids</li></ol>"
+                    ],
+                    "guid": "C6f@N8!O~<",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "what are carbohydrates?",
+                        "Carbohydrates are organic compounds with an empirical formula Cn(H2O)n. The formular consist of C, H &amp; O with&nbsp; the ratio of H and oxygen to be (2: 1). Carbohydrated are also known as polyhydroxyl aldehydes and ketones. They are also charaterized by the type and number of monosacharride residues/moities in their molecules."
+                    ],
+                    "guid": "p>oB(aaS:}",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "List five functions of carbohydrates.",
+                        "<ol><li>It serves of a chief source of energy and also an instant source of energy in many animals.</li><li>They serve as intermediates in the biosynthesis of fats and proteins.</li><li>Carbohydrate provides stamp that sends every molecule to its destinaton inside or outside the cell.</li><li>They associate with lipid and&nbsp; protein to form cell surface antigens.</li><li>Glucose is used as a source of energy and is stored in form of glycogen.</li><li>They form structural and protective element in cell wall and microrganisms.</li></ol>"
+                    ],
+                    "guid": "LVoLU/1E$&",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbohydrates are divided into four major groups which are :-______",
+                        "<ol><li>Monosaccharides</li><li>Dissacharides</li><li>Oligosaccharides</li><li>Polysaccarides</li></ol>Monosaccharides and Dissacarides are usually considered to have lower molecular weight and are called Sugars while oligosaccharides are complex sugars and therefore have higher molecular weight."
+                    ],
+                    "guid": "xrfzU1E8HM",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "069c9d0a-cd90-11ed-8a27-842afdcd6eb6",
+            "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "IMG_20230328_162018_587.jpg",
+                "IMG_20230328_162035_144-82ea25894e275f75dd7867138c5519f90e7766e4.jpg"
+            ],
+            "name": "Synthesis of complex lipid",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the general classification of phospholipids?",
+                        "<ol><li>Glycerolphospholipids</li><li>Sphingolipids</li></ol>"
+                    ],
+                    "guid": "ND-9x22CnS",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "List six common phospholipids.",
+                        "<ol><li>Phosphatidylcholine</li><li>Phosphatidylserine</li><li>Phosphatidylethanolamine</li><li>Phosphatidylinositol</li><li>Phosphatidylglycerol</li><li>Cadiolipin</li></ol>"
+                    ],
+                    "guid": "c(r8sY$Mc1",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Explain glyecerolphospholipids?",
+                        "Glycerophospholipids are often referred to as Phospholipids and the common phospholipids in eukaryotic cells are:<hr/><ul><li>Phosphatidylcholine</li><li>Phosphatidylserine.</li><li>Phosphatidylethaloamine</li><li>Phosphatidylinositol</li><li>Phosphstidylglycerol</li><li>Cardiolipin</li></ul>The biosynthetic pathway of the synthesis of these glycophospholipids are essentially the same in both prokaryotic and eukaryotic organisms. The major difference however is that prokaryotes utilise acyl-carrier proteins (ACP) as their major moiety carrier while eukaryotes utilise acylCoA.&nbsp;<hr/><hr/>The two intermediates required for the synthesis of any given phospholipid whether in eukaryotes or prokaryotes are:<hr/><ol><li>CDP-diacylglycerol</li><li>Phosphatidic Acid</li></ol>Eukaryotic cells displays three biosythetic pathways or roote for the synthesis of phosphatidic acid.<hr/><ol><li>The major pathway starts with glycerol-3-phosphate and this pathway is similar to the pathway employed by prokaryotes.</li><li>A second pathway starts with dihydroxyl acetone phosphate(DHAP) which accepts a fatty acyl moiety at position-1 from an acyl CoA and thiis is followed by a yield of&nbsp; 1-acyl-glycerol-3-phosphate and then there is a second acylation.</li><li>The third pathway begins with diacylglycerol and represents a way to reutilize the carbon backbone of phospholipids.Diacyl glycerol usually generated&nbsp; in dephosphorylation of phosphatidic acid can be re-phosphorylated by a specific diacyl glycerol kinase.</li></ol><hr/>"
+                    ],
+                    "guid": "CIj?;X.pW/",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two intermediates required for the synthesis of any given phospholipid?",
+                        "<ol><li>CDP-diacylglycerol</li><li>Phosphatidic Acid</li></ol>"
+                    ],
+                    "guid": "oVRWSpo{]B",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "With the aid of a pathway describe the second pathway or route that is used for the synthesis of phosphatidic acid.",
+                        "<b>The second pathway starts with dihydroxyl acetone phosphate(DHAP) which accepts a fatty acyl moiety at position-1 from an acyl CoA and thiis is followed by a yield of&nbsp; 1-acyl-glycerol-3-phosphate and then there is a second acylation.</b><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2FIMG_20230328_162018_587.jpg?alt=media&token=cf5d7618-fb22-428a-b290-807c763df99f\">"
+                    ],
+                    "guid": "J?_d2jGQ)*",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "With the aid of a pathway describe the third pathway or route that is used for the synthesis of phosphatidic acid.",
+                        "<b>The third pathway begins with diacylglycerol and represents a way to reutilize the carbon backbone of phospholipids.Diacyl glycerol usually generated&nbsp; in dephosphorylation of phosphatidic acid can be re-phosphorylated by a specific diacyl glycerol kinase.<hr/></b><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2FIMG_20230328_162035_144-82ea25894e275f75dd7867138c5519f90e7766e4.jpg?alt=media&token=df06cadb-539d-4c88-8e2a-5b1307049c66\"><hr/><hr/><div style=\"text-align: justify;\">In the reaction shown above, choline is phosphorylated and the resultant phosphocholine undergoes <b>cytidyltransferase reaction</b> to give <b><font color=\"#ff0000\">CDP-choline</font></b> . The phospholine moiety of this intermediate is transferred to <b><font color=\"#ff0000\">diacylglycerol</font></b> to produce a corresponding <b>phosphotidylcholine</b>. The first enzyme in this pathway is a cytosolic enzyme called <b><font color=\"#ff0000\">Choline Kinase</font></b> while the second enzyme&nbsp;<b><font color=\"#ff0000\">CTP-phosphocholine-1,2-diacylglycerolchlinephosphotransferase</font></b>. <b><i>The same enzyme carries out phosphorylation of both choline and ethanolamine.</i></b></div>"
+                    ],
+                    "guid": "E{&j0p,r_|",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are sphingolipids?",
+                        "Sphingolipids are derivatives of the base <b>sphingosine</b>. Plants sphingolipids contains a slightly different form of this compound and are called&nbsp;<b><font color=\"#ff0000\"><u>Phytosphingosine</u></font></b>.<hr/><hr/>Sphingolipids include:<hr/><ol><li><b>Ceramide</b>: This is the same as <b><font color=\"#ff0000\">N-acetylsphingosine.</font></b></li><li><b>Sphingomyelin</b>: This is the same as <b><font color=\"#ff0000\">N-acylsphingosinephosphocholine</font></b>.</li><li><b>Cerebrosides and gangliosides</b></li></ol><div style=\"text-align: justify;\">Ceramides serves as a precursor for sphingomyeline and glycosphingolipids. The pathway to ceramide synthesis starts with the production of sphinganine from palmytoyl-CoA and Serine.</div><hr/><div style=\"text-align: justify;\">After reduction fo the resulting keto group, the amino group of sphinganine is acylated to give a ceramide. In animals, the sphinganine unit of these compound is the desaturated to give a ceramide with a sphingosine base. The transfer of phosphocholine unit from phoshatidylcholine yields sphingomyelin and diacylglycerol.</div><div><b><hr/><hr/></b></div>"
+                    ],
+                    "guid": "mbkwCB)93&",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Draw the structure of Cerebrosides.",
+                        ""
+                    ],
+                    "guid": "Jef>pdj{<$",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": [
+                        "unanswered"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Draw the structure of Sphingomyelin.",
+                        ""
+                    ],
+                    "guid": "F]cc}Dz~5Z",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": [
+                        "unanswered"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "08e339cd-cd90-11ed-9398-842afdcd6eb6",
+            "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "images (12).jpeg",
+                "paste-12b29382ec6d0e1393d6c5d76ef731cc5c649298.jpg",
+                "paste-bdb3b07ead91853b498da9148bd9dfac6da7e4c6.jpg",
+                "paste-f9fb4a37694e7155bf7a3ad48b425c9b4c9bdb2f.jpg"
+            ],
+            "name": "Synthesis of nucleic acids",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The process of DNA replication is divided into ____.",
+                        "<ul><li>Initiation</li><li>Elongation&nbsp;</li><li>Termination</li></ul>"
+                    ],
+                    "guid": "A}mO)n)dx{",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe the first stage in the synthesis of DNA synthesis.",
+                        "This is known as the initiation stage. This process starts at a point in the DNA molecule called the Ori C site. It begins with the unwinding of the double-stranded DNA molecule. This is achieved by the action of an enzyme called <b>helicase </b>which breaks the hydrogen bonds between the base pairs of the two strands. The unwinding of the DNA produces torsional stress leading to the formation of supercoils. which are removed by <b>topoisomerases. </b>Once the DNA has been unwound , another enzycan onme called <b>primase </b>binds to the single-stranded template and synthesizes a short RNA primer. This primer serves as the starting point for DNA synthesis, providing a free 3'-OH group to which&nbsp;is known as the initiation stage. This process starts at a point in the DNA molecule called the Ori C site. It begins with the unwinding of the double-stranded DNA molecule. This is achieved by the action of an enzyme called&nbsp;<b>helicase&nbsp;</b>which breaks the hydrogen bonds between the base pairs of the two strands. The unwinding of the DNA produces torsional stress leading to the formation of supercoils. which are removed by&nbsp;<b>topoisomerases.&nbsp;</b>Once the DNA has been unwound , another enzycan onme called&nbsp;<b>primase&nbsp;</b>binds to the single-stranded template and synthesizes a short RNA primer. This primer serves as the starting point for DNA synthesis, providing a free 3'-OH group to which the DNA polymerase can add nucleotides.&nbsp;the DNA polymerase can add nucleotides.<hr/><hr/>The DNA polymerase I binds to the primer and begins to synthesize a new strand of DNA by adding complementary nucleotide one by one. <b>DNA polymerases then adds nucleotides in the 5' to 3' direction.<hr/></b>"
+                    ],
+                    "guid": "H;M+{_$yT>",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe the second stage in the synthesis of DNA synthesis.",
+                        "<img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fimages%20(12).jpeg?alt=media&token=ca2b1f87-46b8-4b33-adf1-317295545bf0\"><hr/>This requires the synthesis of one daughter strand, called the leading strand , proceeds continuously from a single RNA primer in the 5' to 3' direction, the same direction as movement of the growing fork. Because growth of the other daughter strand , called the lagging&nbsp; strand , also must occur in the 5' to 3' direction, copying of its template strand must somehow occur in the opposite direction from the movement of the growing fork. A cell accomplishes this feat by producing additional short RNA primers every 1000 bases or so on the second paarental strand, as more of the strand is exposed by unwinding. Each of these primers, base-paired to their template strand, is elongated in the 5' to 3' direction, forming discontinuous segments called okazaki fragaments. The RNA primer of each okzaki fragment is removed and replaced by DNA chain growth&nbsp; from the neighboring okzaki fragment; finally an enzyme called DNA ligase joins the adjustment fragments.&nbsp;<hr/><hr/>The RNA primers are elongated by another enzyme, the remaining gaps being filled with deoxyribonucleotide residues brought about by the polymerase activity of DNA polymerase I . The DNA fragements are joined by DNA ligase to form a continous DNA strand. By repetition of this process, the entire lagging strand eventually is completed.<hr/><hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-bdb3b07ead91853b498da9148bd9dfac6da7e4c6.jpg?alt=media&token=8b8f0b57-adbc-4a34-be42-268f5ff9c51e\">"
+                    ],
+                    "guid": "dpDwTDuNFQ",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Describe how incorrect insertions of deoxyrivonucleic acids are checked for during DNA synthesis.",
+                        "This process is known as proofreading and it works as follows:<hr/><ol><li>As the DNA polymerase adds nucleotides to the growing DNA strand, it checks each nucleotide for proper base-pairing with teh template strand.</li><li>If the nucleotide is properly paired with the template strand, the DNA polymerase proceeds to add the next nucleotide to the growing strand.</li><li>However, if the nucleotide is incorrectly paired, teh DNA&nbsp; polymerase pauses and moves the mispaired nucleotide back to the exonuclease active site .</li><li>The exonuclease active site then removes the mispaired nucleotide from the newly synthesized DNA strand.</li><li>The DNA polymerase can then continue adding nucleotides to the growing strand.&nbsp;</li><li>Once the correct nucleotide is added, the DNA polymerase moves back to its polymerase domain and continues DNA synthesis.</li></ol><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-12b29382ec6d0e1393d6c5d76ef731cc5c649298.jpg?alt=media&token=825d39e9-cfa2-441c-b75e-698b4a744991\"><hr/>"
+                    ],
+                    "guid": "OsmeQ>X#ud",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the spontaneous DNA mutation or damage can occur ?",
+                        "<ol><li>Ionizing radiation(e.g UV light, X-ray)- strand break; base alterations during replication.</li><li>Chemical agents - Induce strand breaks, base alterations, or crosslinking of strands</li></ol>The significance of DNA excision repair can be seen in cases where the nucleotide-excision repair systems are defective, e.g in case of xeroderma pigmentosum in which the exonuclease that removes the pyrimidine (e.g thymine) dimer formed by UV is missing , resulting in multiple skin lesion.<hr/><img src=\"https://firebasestorage.googleapis.com/v0/b/questions-94336.appspot.com/o/BCH%20411%2Fpaste-f9fb4a37694e7155bf7a3ad48b425c9b4c9bdb2f.jpg?alt=media&token=cce40f66-75a2-4dd4-902c-cd9b948179a0\"><hr/>"
+                    ],
+                    "guid": "g@T~xwi23|",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Explain the RNA-Dependent Synthesis of DNA .",
+                        "This is known as reverse transcription, is a process by which a RNA molecule is a reverse transcribed into a complementary DNA (cDNA) molecule. This process is catalyzed by an enzyme called revers transcriptase.&nbsp;<hr/><hr/>Reverse transcriptase is found in retroviruses, a class of viruses that use RNA as their genetic material. When a retrovirus infects a&nbsp; host cell, it carries with it its own reverse transcriptase enzyme. The virus uses the enzyme to convert its RNA genome into DNA, which can then be integrated into the host cell's genome.<hr/><hr/>The process of RNA-dependent synthesis of DNA occurs in several steps:<hr/><ol><li>The retrovirus enters the host cell and releases its RNA genome.</li><li>The retrovirus transcriptase enzyme binds to the RNA molecule and uses it as a template to synthesize a complementary DNA molecule.&nbsp;</li><li>The reverse transcriptase adds nucleotides to the growing cDNA molecule until it reaches the end of the RNA template.</li><li>The RNA template is degraded by the enzyme RNase H, leaving behind a single-stranded cDNA molecule.</li><li>The reverse transcriptase synthesizes a second strand of cDNA using the first strand as a template, resulting in a double-stranded cDNA molecule.</li><li>The double-stranded cDNA can then be integrated into the host cell's genome by the enzyme integrase, allowing the virus to replicate and spread.</li></ol>"
+                    ],
+                    "guid": "F!O(M>?Mil",
+                    "note_model_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "6f5c5652-ce3b-11ed-b832-842afdcd6eb6",
+    "deck_config_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "fb0260ad-cd8f-11ed-94d0-842afdcd6eb6",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "BCH 411",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "fb0260b0-cd8f-11ed-ba2d-842afdcd6eb6",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n  padding: 0 30px;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}

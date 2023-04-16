@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/books-logo.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>myNotes</title>
+		
+		
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type="text/x-mathjax-config" id="math-formualar">
+			MathJax.Hub.Config({
+			  jax: ["input/TeX", "output/HTML-CSS"],
+			  extensions: ["tex2jax.js", "MathMenu.js", "MathZoom.js", "CHTML-preview.js"],
+			  TeX: {
+				extensions: ["AMSmath.js", "AMSsymbols.js", "mhchem.js"],
+				equationNumbers: { autoNumber: "AMS" },
+				Macros: {
+				  canc: "{\\color{red}\\cancel{#1}}",
+				  d: "\\mathrm{d}",
+				  pdv: "\\left(\\frac{\\partial #1}{\\partial #2}\\right)_v",
+				  pde: "\\left(\\frac{\\partial #1}{\\partial #2}\\right)_e",
+				  pdc: "\\left(\\frac{\\partial #1}{\\partial #2}\\right)_c",
+				  eqdef: "\\stackrel{\\mathrm{def}}{=}",
+				},
+			  },
+			  "HTML-CSS": { availableFonts: ["TeX"] },
+			  showMathMenu: false,
+			  showMathMenuMSIE: false,
+			  messageStyle: "none",
+			});
+			</script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+		<script type="module" src="/src/main.jsx"></script>
+	</body>
+</html>
