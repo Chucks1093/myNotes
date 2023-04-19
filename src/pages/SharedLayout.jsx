@@ -11,14 +11,7 @@ function SharedLayout() {
     const allCards = useRef(null);
     const location = useLocation();
     useEffect(()=>{
-        console.log(location.pathname)
-        console.log("it cahns")
-        // allCards.current.children.ma(child => {
-        //     showCards(child)
-        // })
         showCards(allCards.current)
-        console.log(allCards.current.children);
-
         return () => {
             allCards.current.style.opacity = 0;
             allCards.current.style.top = "60px";
@@ -32,6 +25,7 @@ function SharedLayout() {
             <Header/>
             <main ref={allCards}>
                 <Outlet />
+                <a href="#" className="up__button"><img src="upArrow.svg" alt="" /></a>
             </main>
         </Fragment>
     )
