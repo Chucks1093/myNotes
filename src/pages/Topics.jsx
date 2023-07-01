@@ -11,12 +11,13 @@ function Topics() {
         async function fetchData() {
             const response = await import(`../courses/${dataName}/deck.json`);
             setData(response);
+            
         };
         fetchData();
     }, []);
 
     if (!data) {
-        return <div>Loading data ...</div>
+        return <div className="loader"><img src="/loader.svg" alt="loader" /></div>
     }
     
     return (

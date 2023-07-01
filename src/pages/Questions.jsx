@@ -1,4 +1,4 @@
-
+    
 import { Fragment } from "react";
 import Quiz from "../components/Quiz";
 import { useState, useEffect } from "react";
@@ -19,12 +19,12 @@ function Questions() {
     const dataName = localStorage.getItem("name");
     const sectionName = localStorage.getItem("section");
 
-    (function () {
-        var script = document.createElement("script");
+    useEffect(()=>{
+        const script = document.createElement("script");
         script.type = "text/javascript";
         script.src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML";   // use the location of your MathJax
     
-        var config = 'MathJax.Hub.Config({' +
+        const config = 'MathJax.Hub.Config({' +
             'extensions: ["tex2jax.js"],' +
             'jax: ["input/TeX","output/HTML-CSS"]' +
             '});' +
@@ -41,7 +41,7 @@ function Questions() {
         })
     
         document.getElementsByTagName("head")[0].appendChild(script);
-    })();
+    }, []);
     
     
 
@@ -54,10 +54,9 @@ function Questions() {
     }, []);
 
     if (!data) {
-        return <div>Loading data ...</div>
+        return  <div className="loader"><img src="/loader.svg" alt="loader" /></div>
     }
     return(
-
         <Fragment>
             {
                 data.children[getPosition(data.children, sectionName)].notes.map((topics, i) => 

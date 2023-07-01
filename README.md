@@ -2,6 +2,8 @@
 
 This is a question and answer app built with React ⚛️ and Firebase 🔥. This app was specifically designed to assist colleagues in their exam preparation by providing a convenient platform for studying and collaborative learning. Its features are tailored to enhance the studying experience and promote knowledge sharing among users. With this app, students can leverage its functionality to improve their understanding of course materials and excel in their exams.
 
+
+
 ## Upcoming Features
 
 - 👤 User Registration: Users can create an account or sign in using their existing credentials.

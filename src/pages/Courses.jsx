@@ -1,16 +1,18 @@
 import Card from "../components/Card";
 import { Fragment } from "react";
 import courses from "../courses/courses";
+import Course from "../components/Course";
 
 
 function Courses() {
     return(
-        <Fragment>
+        <section className="all__courses">
             {
                 Object.keys(courses).map((name,i) => (
-                    <Card key={i} name={name} link="/topics" no={false} />))
+                    <Course/>)
+                )
             }
-        </Fragment>
+        </section>
     )   
 }
 
