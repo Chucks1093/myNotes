@@ -8,7 +8,9 @@ function Header(){
         const modal = parent.children[0];
         const modalCover = parent.children[1];
 
+
         const notification = e.currentTarget.querySelector("#notification");
+        document.body.style.overflowY = "hidden";
         modalCover.style.display = "block";
         modal.style.display = "block";
         notification.style.display = localStorage.getItem("isChecked")? "none":"block";

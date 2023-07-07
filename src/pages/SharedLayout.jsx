@@ -31,4 +31,13 @@ function SharedLayout() {
     )
 };
 
+{/* <div style={{overflowY: "scroll"}}>
+<Modal></Modal>
+<Header/>
+<main ref={allCards}>
+    <Outlet />
+    <a href="#" className="up__button"><img src="upArrow.svg" alt="" /></a>
+</main>
+</div> */}
+
 export default SharedLayout;

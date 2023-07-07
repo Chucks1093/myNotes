@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getDatabase } from "firebase/database";
+import { getDatabase, ref, onValue } from "firebase/database";
 
 const firebaseConfig = {
     apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
@@ -11,9 +11,27 @@ const firebaseConfig = {
     appId: import.meta.env.VITE_FIREBASE_APP_ID,
 };
 
-  
-initializeApp(firebaseConfig);
+// const firebaseConfig = {
+//     apiKey: "AIzaSyBfXN4byANxS9rjFSsbrSyMYcC2kiB9RfE",
+//     authDomain: "questions-94336.firebaseapp.com",
+//     databaseURL: "https://questions-94336-default-rtdb.firebaseio.com",
+//     projectId: "questions-94336",
+//     storageBucket: "questions-94336.appspot.com",
+//     messagingSenderId: "303413714981",
+//     appId: "1:303413714981:web:b196252413ff4b0c0e1fcc"
+// };
 
-const myNotes = getDatabase();
 
-export default myNotes;
+// const firebaseConfig = {
+//     apiKey: "AIzaSyBfXN4byANxS9rjFSsbrSyMYcC2kiB9RfE",
+//     authDomain: "questions-94336.firebaseapp.com",
+//     databaseURL: "https://questions-94336-default-rtdb.firebaseio.com",
+//     projectId: "questions-94336",
+//     storageBucket: "questions-94336.appspot.com",
+//     messagingSenderId: "303413714981",
+//     appId: "1:303413714981:web:b196252413ff4b0c0e1fcc"
+// };
+
+const app = initializeApp(firebaseConfig);
+
+export default app;
