@@ -1,0 +1,111 @@
+.course__card {
+    background-color: white;
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+    box-shadow:  0 .5rem .5rem rgba(0, 0, 0, 0.411);
+    border-radius: 1.4rem;
+    overflow-y: hidden;
+    animation: show 1s ease;
+
+    & .author__container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1.3rem;
+        margin-bottom: 1rem;
+
+        $value: 2.4rem;
+        & .author {
+            width: $value;
+            height: value;
+            border-radius: 50%;
+        }
+
+        & .topic__link {
+            padding: .2rem;
+            width: $value;
+            height: value;
+            border-radius: 50%;
+            transform: rotate(180deg);
+            opacity: .3;
+            
+            &:active {
+                background-color: #2e2e2e;
+            }
+        }
+    }
+
+    & .course__title {
+        margin-bottom: .7rem;
+        padding: 0 1.3rem;
+        color: #616161;
+        height: 3em;
+        overflow: hidden;
+        width: 70%;
+        line-height: 1.4em;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* Adjust the number of lines as per your requirement */
+        -webkit-box-orient: vertical;   
+        text-overflow: ellipsis;
+    }
+
+    & .course__info {
+        padding: 0 1.3rem;
+        margin-bottom: .7rem;
+        font-size: .95rem;
+        color: #969696;
+    }
+
+    & .course__img {
+        width: 95%;
+        margin: 0 auto;
+        height: 12rem;
+        object-fit: cover;
+        border-radius: 1.4rem;
+        background-color: #a7cbcc;
+        display: grid;
+        place-items: center;
+        background-image: url(grain.svg);
+
+        & h3 {
+            font-size: 3rem;
+            color: #73b4b6;
+        }
+    }
+}   
+
+@keyframes show {
+    from{
+        opacity: 0;
+        transform: translateY(20%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .course__card {
+
+        & .course__title {
+            font-size: 1.7rem;
+        }
+
+        & .course__img {
+            height: 15rem;
+        }
+
+    }
+}
+.all__courses {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16.5rem, 1fr));
+    column-gap: 1.5rem;
+    padding: 0 1rem 0;
+    
+    width: 100%;      
+    grid-auto-rows: auto;
+    row-gap: 2rem;
+    margin-bottom: 2rem;
+}

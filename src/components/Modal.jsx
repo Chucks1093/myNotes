@@ -28,6 +28,7 @@ function Modal() {
     const openModal =(e) => {
         const modalCover = e.currentTarget;
         const modal = e.currentTarget.nextElementSibling;
+        document.body.style.overflowY = "scroll";
         
         modalCover.style.opacity = 0;
         modal.style.opacity = 0;
@@ -42,7 +43,7 @@ function Modal() {
 
     return (
         <Fragment>
-            <div ref={modalCover} className="message-cover" onClick={openModal}>
+            <div ref={modalCover}  className="message-cover" onClick={openModal}>
             </div>
             <div  className="modal">    
                 <div className="show-dev">

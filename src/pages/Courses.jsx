@@ -1,17 +1,32 @@
 import Card from "../components/Card";
-import { Fragment } from "react";
-import courses from "../courses/courses";
-
+import { Fragment, useEffect, useState } from "react";
+// import courses from "../courses/courses";
+import Course from "../components/Course";
+import getNotes from "../firebase/getNotes";
+import getLocalStorage from "../utils/getLocalStorage";
+import useFireBase from "../firebase/useFirebase";
+import Loader from "../components/Loader";
 
 function Courses() {
-    return(
-        <Fragment>
-            {
-                Object.keys(courses).map((name,i) => (
-                    <Card key={i} name={name} link="/topics" no={false} />))
-            }
-        </Fragment>
-    )   
+	const data = useFireBase("/");
+	
+
+
+	return (
+		<Fragment>
+		{
+			data.length === 0 ? (
+				<Loader />
+			): (
+				<section className="all__courses">
+					{Object.values(data).map((name, i) => (
+						<Course key={i} title={name.title} children={name.children} code ={name.name}  />
+					))}
+				</section>
+			)
+		}
+		</Fragment>
+	);
 }
 
 export default Courses;

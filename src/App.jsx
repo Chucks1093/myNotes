@@ -11,12 +11,11 @@ function App() {
 
 	return (
 		<BrowserRouter>
-			
 			<Routes>
 			<Route path='/' element={<SharedLayout />} >
                     <Route index element={<Courses />} />
-                    <Route path='topics' element={<Topics />} />
-                    <Route path='questions' element={<Questions />} />
+                    <Route path='/:courseId' element={<Topics />} />
+                    <Route path='/:courseId/:topicId' element={<Questions />} />
                </Route>
 			</Routes>
 		</BrowserRouter>

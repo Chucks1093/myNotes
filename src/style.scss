@@ -12,6 +12,7 @@ body {
      background-position: center;
      background-size: 87%;
      position: relative;
+     // overflow-y: hidden;
 }
 
 .cover {
@@ -22,13 +23,6 @@ body {
 
 main {
      margin: 2rem  0 0 0;
-     opacity: 0;
-     // opacity: 1;
-     position: relative;
-     top: 60px;
-     // top: 0px;
-     transition: all 1s ease-in-out;
-
 }
 
 
