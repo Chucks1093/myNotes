@@ -11,14 +11,16 @@ function getCourseName (element) {
 };
 
 function Card(props) {
-
     const size = props.name.length < 21 ? "small-text" : "long-text";
+    const link = `/${props.link}/${props.name}`.replace(/\s/g, '');    
+
+
     return(
         <article onClick={getCourseName} className="course">
-            <Link to={props.link}></Link>
+            <Link to={link}></Link>
             <img src="/books-logo.svg" alt="book-icon" />
-            <p className={`course-name ${size}` }>{props.name}</p>
-            <p className="no-course-sections">{props.no? props.no : null}{!props.no? <img src="d-link-1.svg" alt="" />: null}{props.no?(<span>cards</span>) : null}</p>
+            <p className={`course-name ${size}`}>{props.name}</p>
+            <p className="no-course-sections">{props.no} <span>cards</span></p>
         </article>
     )
 }

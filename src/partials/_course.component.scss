@@ -5,6 +5,7 @@
     box-shadow:  0 .5rem .5rem rgba(0, 0, 0, 0.411);
     border-radius: 1.4rem;
     overflow-y: hidden;
+    animation: show 1s ease;
 
     & .author__container {
         display: flex;
@@ -38,7 +39,14 @@
         margin-bottom: .7rem;
         padding: 0 1.3rem;
         color: #616161;
-
+        height: 3em;
+        overflow: hidden;
+        width: 70%;
+        line-height: 1.4em;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* Adjust the number of lines as per your requirement */
+        -webkit-box-orient: vertical;   
+        text-overflow: ellipsis;
     }
 
     & .course__info {
@@ -64,12 +72,25 @@
             color: #73b4b6;
         }
     }
-
-
 }   
+
+@keyframes show {
+    from{
+        opacity: 0;
+        transform: translateY(20%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
 
 @media screen and (max-width: 600px) {
     .course__card {
+
+        & .course__title {
+            font-size: 1.7rem;
+        }
 
         & .course__img {
             height: 15rem;
@@ -79,7 +100,7 @@
 }
 .all__courses {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(16.5rem, 1fr));
     column-gap: 1.5rem;
     padding: 0 1rem 0;
     
