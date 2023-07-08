@@ -1,30 +1,28 @@
 import { Fragment, useEffect, useState } from "react";
 import Card from "../components/Card";
-
+import useFireBase from "../firebase/useFirebase";
+useFireBase;
+import Loader from "../components/Loader";
+import { useParams } from "react-router-dom";
+import getLocalStorage from "../utils/getLocalStorage";
 
 
 function Topics() {
-    const [data, setData] = useState(null);
-    const dataName = localStorage.getItem("name");
+    const {courseId} = useParams();
+    const allCourses = getLocalStorage();
+    const course = allCourses.find((topic) => topic.name.replace(/\s/g, '')  == courseId);
 
-    useEffect(()=>{
-        async function fetchData() {
-            const response = await import(`../courses/${dataName}/deck.json`);
-            setData(response);
-            
-        };
-        fetchData();
-    }, []);
 
-    if (!data) {
-        return <div className="loader"><img src="/loader.svg" alt="loader" /></div>
-    }
     
     return (
         <Fragment>
             {
-                data.children.map((topics, i) => 
-                <Card key={i} name={topics.name} link="/questions" no={topics.notes.length} /> )
+                allCourses.length ===0 ? (
+                    <Loader />
+                ) : (
+                    course.children.map((topics, i) => 
+                    <Card key={i} name={topics.name} link={courseId} no={topics.notes.length} /> )
+                )
             }
         </Fragment>
     )
