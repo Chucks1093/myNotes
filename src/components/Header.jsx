@@ -1,25 +1,35 @@
-import { useState } from "react";
-import { Link } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { Link, useParams } from "react-router-dom";
 
 function Header(){
-    const [visible , setVisible] = useState(false);
+    // const [pageText , setPageText] = useState(useParams());
+
+    // useEffect((()=>{
+    //     const changePageText = ()=> {
+    //         console.log(pageText)
+    //     }
+    //     changePageText();
+
+    // }, []))
+
     const showModal =(e)=> {
         const parent = e.currentTarget.parentElement.parentElement;
-        const modal = parent.children[0];
-        const modalCover = parent.children[1];
-
-
-        const notification = e.currentTarget.querySelector("#notification");
+        const modalCover = parent.children[0];
+        // console.log(modal, modalCover, "modal")
+        modalCover.style.animation= "openModal .5s ease forwards";
         document.body.style.overflowY = "hidden";
-        modalCover.style.display = "block";
-        modal.style.display = "block";
-        notification.style.display = localStorage.getItem("isChecked")? "none":"block";
-        localStorage.setItem("isChecked", true);
 
-        setTimeout(()=> {
-            modalCover.style.opacity = 1;
-            modal.style.opacity = 1;
-        }, 50)
+
+        // const notification = e.currentTarget.querySelector("#notification");
+        // modalCover.style.display = "block";
+        // modal.style.display = "block";
+        // notification.style.display = localStorage.getItem("isChecked")? "none":"block";
+        // localStorage.setItem("isChecked", true);
+
+        // setTimeout(()=> {
+        //     modalCover.style.opacity = 1;
+        //     modal.style.opacity = 1;
+        // }, 50)
         
 
     }
