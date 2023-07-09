@@ -1,8 +1,7 @@
-import Card from "../components/Card";
+
 import { Fragment, useEffect, useState } from "react";
 // import courses from "../courses/courses";
 import Course from "../components/Course";
-import getNotes from "../firebase/getNotes";
 import getLocalStorage from "../utils/getLocalStorage";
 import useFireBase from "../firebase/useFirebase";
 import Loader from "../components/Loader";
