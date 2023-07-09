@@ -185,9 +185,7 @@ header {
      background-color: rgba(77, 76, 75, 0.575);
      z-index: 4;
      box-shadow: 0 10px 20px rgba(36, 35, 35, 0.493);
-     transition: opacity .5s ease;
-     opacity: 0;
-     display: none;
+     visibility: hidden;
 
      overflow: hidden ;
 
@@ -206,9 +204,6 @@ header {
      padding: 1rem 1rem 2rem;
      transform: translateX(-50%);
      text-align: center;
-     transition: opacity .5s ease;
-     opacity: 0;
-     display: none;
 
      
 
@@ -246,8 +241,11 @@ header {
      & .message{
           font-size: .8rem;
           width: 85%;
+          min-width: 17rem;
           margin: 1rem auto 0;
-          color: #4d4d4d;
+          color: #4d4d4d96;
+          text-align: justify;
+          text-align-last: center;
 
      }
 
@@ -257,7 +255,6 @@ header {
      }
 }
 .quiz-info {
-     // background-color: #6AB797;
      background-color: rgb(238, 119, 139);
      border-radius: .5rem;
      padding: .85rem  0rem ;
@@ -332,5 +329,35 @@ header {
           display: block;
           cursor: pointer;
 
+     }
+}
+
+@keyframes openModal {
+     0% {
+         visibility: hidden;
+         opacity: 0;
+     }
+     30% {
+         opacity: 0;
+         visibility: visible;
+     }
+     100% {
+         visibility: visible;
+         opacity: 1;
+     }
+}
+
+@keyframes closeModal {
+     0% {
+         visibility: visible;
+         opacity: 1;
+     }
+     70% {
+         opacity: 0;
+         visibility: visible;
+     }
+     100% {
+         visibility: hidden;
+         opacity: 0;
      }
 }
