@@ -4,23 +4,17 @@ import Quiz from "../components/Quiz";
 import { useState, useEffect } from "react";
 import getLocalStorage from "../utils/getLocalStorage";
 import Loader from "../components/Loader";
-import { useParams } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 
 
-function getPosition(arr, propName) {
-    for (let i=0; i<arr.length; i++) {
-        if(arr[i].name == propName){
-            return i;
-        }
-    }
-}
 
-function Questions() {
-    const allCourses = getLocalStorage();
-    console.log(allCourses)
+function Questions(props) {
+    const {state} = useLocation();
+    console.log(state)
+    const allCourses = getLocalStorage()
     const {courseId, topicId} = useParams();
-    const topic = allCourses.find((topic) => topic.name.replace(/\s/g, '')  == courseId).children;
-    const questions = topic.find((question) => question.name.replace(/\s/g, '')  == topicId).notes;
+    const topic = allCourses.find((topic) => topic.name.replace(/\s/g, '-')  == courseId).children;
+    const questions = topic.find((question) => question.name.replace(/\s/g, '-')  == topicId).notes;
     useEffect(()=>{
         const script = document.createElement("script");
         script.type = "text/javascript";
