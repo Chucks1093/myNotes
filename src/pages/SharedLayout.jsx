@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import Header from "../components/Header";
 import { Outlet } from 'react-router-dom';
 import Modal from "../components/Modal";
+import UpButton from "../components/UpButton";
 
 function SharedLayout() {
 
@@ -11,7 +12,7 @@ function SharedLayout() {
             <Header/>
             <main>
                 <Outlet />
-                <a href="#" className="up__button"><img src="upArrow.svg" alt="" /></a>
+                <UpButton />
             </main>
         </Fragment>
     )

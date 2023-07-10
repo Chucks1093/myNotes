@@ -1,16 +1,14 @@
 import { useEffect, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { Link, useLocation, useParams } from "react-router-dom";
 
 function Header(){
-    // const [pageText , setPageText] = useState(useParams());
+    const [pageText, setPageText] = useState("Courses")
+    const location = useLocation();
+    useEffect(()=>{
+        const state = location.state? location.state: 'Courses';
+        setPageText(state)
+    }, [location])
 
-    // useEffect((()=>{
-    //     const changePageText = ()=> {
-    //         console.log(pageText)
-    //     }
-    //     changePageText();
-
-    // }, []))
 
     const showModal =(e)=> {
         const parent = e.currentTarget.parentElement.parentElement;
@@ -18,27 +16,13 @@ function Header(){
         // console.log(modal, modalCover, "modal")
         modalCover.style.animation= "openModal .5s ease forwards";
         document.body.style.overflowY = "hidden";
-
-
-        // const notification = e.currentTarget.querySelector("#notification");
-        // modalCover.style.display = "block";
-        // modal.style.display = "block";
-        // notification.style.display = localStorage.getItem("isChecked")? "none":"block";
-        // localStorage.setItem("isChecked", true);
-
-        // setTimeout(()=> {
-        //     modalCover.style.opacity = 1;
-        //     modal.style.opacity = 1;
-        // }, 50)
-        
-
     }
 	return(
 		<header>
 			<div className="app-details">
                 <Link to='/' className="app-name">myNotes</Link>
             </div>
-            <p id="title">Courses</p>
+            <p id="title">{pageText}</p>
             <button  onClick={showModal} className="notification-btn" id="notification-btn">
                 <img  src="/bell.svg" alt="" />
                 <div className="notification" id="notification"></div>
