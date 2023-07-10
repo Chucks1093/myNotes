@@ -18,7 +18,7 @@ function Topics() {
     return (
         <Fragment>
             {
-                allCourses.length ===0 ? (
+                !course ? (
                     <Loader />
                 ) : (
                     course.children.map((topics, i) => 
