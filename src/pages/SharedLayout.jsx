@@ -3,6 +3,8 @@ import Header from "../components/Header";
 import { Outlet } from 'react-router-dom';
 import Modal from "../components/Modal";
 import UpButton from "../components/UpButton";
+import PopUp from "../components/PopUp";
+
 
 function SharedLayout() {
 
@@ -12,6 +14,7 @@ function SharedLayout() {
             <Header/>
             <main>
                 <Outlet />
+                {/* <PopUp /> */}
                 <UpButton />
             </main>
         </Fragment>
