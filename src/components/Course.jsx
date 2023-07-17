@@ -10,9 +10,9 @@ function Course(props) {
 		};
 		const dateText = `${dateFormat.month} ${dateFormat.day}`;
 		if (num < 10) {
-			return `${dateText} ⨀ 0${num} Topics`;
+			return `${dateText} · 0${num} Topics`;
 		} else {
-			return `${dateText} ⨀ ${num} Topics`;
+			return `${dateText} · ${num} Topics`;
 		}
 	};
 	return (
@@ -36,9 +36,15 @@ function Course(props) {
 			</div>
 			<h2 className="course__title">{props.title}</h2>
 			<p className="course__info">{formatNo(props.children.length)}</p>
-			<div className="course__img">
-				<h3>{props.code}</h3>
-			</div>
+			<Link
+				to={`/${props.code.replace(/\s/g, "-")}`}
+				state={props.code}
+				style={{textDecoration: "none"}}
+			>
+				<div className="course__img">
+					<h3>{props.code}</h3>
+				</div>
+			</Link>
 		</article>
 	);
 }
