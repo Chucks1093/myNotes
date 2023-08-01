@@ -6,5 +6,6 @@ export default function getLocalStorage() {
         behavior: 'smooth'
     });
     const data = localStorage.getItem("COURSES") ? JSON.parse(localStorage.getItem("COURSES")): [];
+    console.log(data)
     return Object.values(data);
 }

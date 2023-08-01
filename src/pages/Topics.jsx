@@ -8,21 +8,28 @@ import getLocalStorage from "../utils/getLocalStorage";
 
 
 function Topics() {
-    
+    const [topics, setTopics] = useState([]);    
     const {courseId} = useParams();
-    const allCourses = getLocalStorage();
-    const course = allCourses.find((topic) => topic.name.replace(/\s/g, '-')  == courseId);
+    
+    useEffect(()=>{
+        const allCourses = getLocalStorage();
+        console.log(allCourses)
+        const course = allCourses.find((topic) => topic.name.replace(/\s/g, '-')  == courseId);
+        console.log(course, "courses")
+        setTopics(course)
+
+    },[])
 
 
     
     return (
         <Fragment>
             {
-                !course ? (
+                topics.length==0 ? (
                     <Loader />
                 ) : (
-                    course.children.map((topics, i) => 
-                    <Card key={i} name={topics.name} link={courseId} no={topics.notes.length} /> )
+                    topics.children.map((topics, i) => 
+                    (<Card key={i} name={topics.name} link={courseId} questionLength={topics.notes.length} />) )
                 )
             }
         </Fragment>

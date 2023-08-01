@@ -3,44 +3,39 @@ import QuizInfo from "./QuizInfo";
 import getLocalStorage from "../utils/getLocalStorage";
 import { useState } from "react";
 
-const allCourses = getLocalStorage();
-let allTopics = [];
-let totalTopics = 0;
-let totalQuestions = 0;
-allCourses.forEach(topic => {
-    totalTopics += topic.children.length;
-    allTopics.push(...topic.children)
-})
-allTopics.forEach(question => {
-    totalQuestions += question.notes.length;
-});
-
-
-
 
 
 function Modal() {
-    const [visible, setVisible] = useState(false);
+    const [quizMetric, setQuizMetric] = useState({
+        totalCourses: 0,
+        totalTopics: 0,
+        totalQuestions: 0
+    });
+    useEffect(()=>{
+        const allCourses = getLocalStorage();
+        let allTopics = [];
+        let topicsCount = 0;
+        let questionsCount = 0;
+        allCourses.forEach(topic => {
+            topicsCount += topic.children.length;
+            allTopics.push(...topic.children)
+        })
+        allTopics.forEach(question => {
+            questionsCount += question.notes.length;
+        });
+        setQuizMetric({
+            totalCourses: allCourses.length,
+            totalTopics: topicsCount,
+            totalQuestions: questionsCount
+        })
+
+    }, [])
 
     
-    const openModal =(e) => {
-        const modalCover = e.currentTarget;
-        const modal = e.currentTarget.nextElementSibling;
-        
-        modalCover.style.opacity = 0;
-        modal.style.opacity = 0;
-        
-        setTimeout(()=> {
-            modalCover.style.display = "none";
-            modal.style.display = "none";
-        }, 1000)
-        
-        
-    }
+
     function closeModal(e) {
         const modalCover = e.currentTarget;
         if (!e.target.closest(".modal")) {
-            console.log(modalCover)
             document.body.style.overflowY = "scroll";
             modalCover.style.animation = "closeModal .6s ease forwards"
         }
@@ -59,17 +54,17 @@ function Modal() {
                     <p className="message">Hey there! I'm a student at the University of Nigeria, Nsukka. I've developed this web app to support fellow students in preparing for their upcoming exams. Wishing you all the best of luck and success in your studies and exams!</p>
                     <div className="quiz-info">
                         <QuizInfo 
-                            number={allCourses.length}
+                            number={quizMetric.totalCourses}
                             title={"Courses"} 
                             source={"exam-2"}
                         />
                         <QuizInfo 
-                            number={totalQuestions}
+                            number={quizMetric.totalQuestions}
                             title={"Questions"} 
                             source={"q-a-1"}
                         />
                         <QuizInfo
-                            number={totalTopics}
+                            number={quizMetric.totalTopics}
                             title={"Topics"} 
                             source={"pie-1"}/>
                     </div>        

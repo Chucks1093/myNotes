@@ -9,10 +9,17 @@ import { useLocation, useParams } from "react-router-dom";
 
 
 function Questions(props) { 
-    const allCourses = getLocalStorage()
+    const [questions, setQuestions] = useState([]);
     const {courseId, topicId} = useParams();
-    const topic = allCourses.find((topic) => topic.name.replace(/\s/g, '-')  == courseId).children;
-    const questions = topic.find((question) => question.name.replace(/\s/g, '-')  == topicId).notes;
+
+    
+    useEffect(()=>{
+        const allCourses = getLocalStorage()
+        const topic = allCourses.find((topic) => topic.name.replace(/\s/g, '-')  == courseId).children;
+        const questionList = topic.find((question) => question.name.replace(/\s/g, '-')  == topicId).notes;
+        console.log(questionList);
+        setQuestions(questionList)
+    }, [])
     useEffect(()=>{
         const script = document.createElement("script");
         script.type = "text/javascript";
