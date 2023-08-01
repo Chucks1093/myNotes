@@ -16,7 +16,7 @@ function Card(props) {
 			/>
 			<p className={`course-name ${size}`}>{props.name}</p>
 			<p className="no-course-sections">
-				{props.no} <span>cards</span>
+				{props.questionLength} <span>cards</span>
 			</p>
 		</article>
 	);

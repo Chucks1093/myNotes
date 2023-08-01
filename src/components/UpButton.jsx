@@ -4,7 +4,6 @@ function UpButton() {
     const upLink = useRef(null);
     const handleScroll = () => {
         const position = window.scrollY;
-        console.log(position)
         if (position > 220) {
             upLink.current.style.animation = "showUpLink .2s ease-in forwards";
         } else {
