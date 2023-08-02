@@ -1,4 +1,3 @@
-
 import { Fragment, useEffect, useState } from "react";
 // import courses from "../courses/courses";
 import Course from "../components/Course";
@@ -8,22 +7,23 @@ import Loader from "../components/Loader";
 
 function Courses() {
 	const data = useFireBase("/");
-	
-
 
 	return (
 		<Fragment>
-		{
-			data.length === 0 ? (
+			{data.length === 0 ? (
 				<Loader />
-			): (
+			) : (
 				<section className="all__courses">
 					{Object.values(data).map((name, i) => (
-						<Course key={i} title={name.title} children={name.children} code ={name.name}  />
+						<Course
+							key={i}
+							title={name.title}
+							children={name.children}
+							code={name.name}
+						/>
 					))}
 				</section>
-			)
-		}
+			)}
 		</Fragment>
 	);
 }
