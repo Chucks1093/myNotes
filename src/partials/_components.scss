@@ -147,12 +147,19 @@ header {
           
           }
 
-          & > img {
+          
+          & .show__btn {
                height: 2.3rem;
                border-radius: 50%;
                align-self: flex-start;
                box-shadow: $shadowMd;
                cursor: pointer;
+          }
+          
+          &  img:not(.show__btn) {
+               width: 95%;
+               object-fit: contain;
+               display: inline;
           }
      }
 
