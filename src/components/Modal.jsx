@@ -20,10 +20,10 @@ function Modal() {
 		});
 
 		allTopics.forEach((question) => {
-         if(!question.notes.length) {
-            question.notes.length = 0;
+         if(question.notes) {
+            questionsCount += question.notes.length;
+            
          }
-			questionsCount += question.notes.length;
 		});
 		setQuizMetric({
 			totalCourses: allCourses.length,
