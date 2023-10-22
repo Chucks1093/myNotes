@@ -24,14 +24,16 @@ function Topics() {
 			{topics.length == 0 ? (
 				<Loader />
 			) : (
-				topics.children.map((topics, i) => (
-					<Card
-						key={i}
-						name={topics.name}
-						link={courseId}
-						questionLength={topics.notes.length}
-					/>
-				))
+				topics.children.map((topics, i) => {
+					return topics.notes ? (
+						<Card
+							key={i}
+							name={topics.name}
+							link={courseId}
+							questionLength={topics.notes.length}
+						/>
+					) : null;
+				})
 			)}
 		</Fragment>
 	);
